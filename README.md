@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dan-njuguna, an 18 years old Software engineer with great passion and vigor for programming.
+- 👋 Hi, I’m Dan-njuguna, a Software engineer with great passion and vigor for programming.
 - 👀 I’m interested in tech, and AI inventions. 
 - 🌱 I’m currently learning C programming and Python. 
 - 📫 How to reach me on Email: njugunaadan@gmail.com
