@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Dan-njuguna, a Software engineer with great passion and vigor for programming.
-- 👀 I’m interested in tech, and AI inventions. 
-- 🌱 I’m currently learning C programming and Python. 
+Hi, I’m <b>Dan-njuguna</b>, a Software engineering student at ALX and Multimedia University. Aspiring Data Scientist.
 - 📫 How to reach me on Email: njugunaadan@gmail.com
-- I'm looking forward to being a Senior Software engineer with irresistable skill in coding. Passionate and Talented.
-
+Talks about #coding #datascience #machinelearning #software_engineering #cprogramminh #python #opensource #AIdevelopment
 <!---
 Dan-njuguna/Dan-njuguna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
