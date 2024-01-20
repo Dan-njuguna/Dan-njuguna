@@ -4,12 +4,12 @@
 
 <h3>Skills and Expertise: </h3>
 <ul>
- <li>_C programming_</li>
- <li>_Python Programming Language_</li>
- <li>_Shell_</li>
- <li>_Linux_</li>
- <li>_Git_</li>
- <li>_Github_</li>
+ <li><em>C programming</em></li>
+ <li><em>Python Programming Language</em></li>
+ <li><em>Shell</em></li>
+ <li><em>Linux</em></li>
+ <li><em>Git</em></li>
+ <li><em>Github</em></li>
 </ul>
 <ul>
  <li>📫 How to reach me on Email: <q>njugunaadan@gmail.com</q></li>
