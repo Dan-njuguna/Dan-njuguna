@@ -21,7 +21,7 @@ I am passionate about coding, cybersecurity, ethical hacking, and open-source pr
 Feel free to reach out to me via email at [njugunaadan@gmail.com](mailto:njugunaadan@gmail.com). Let's connect and collaborate!
 
 
-
+## More About Me
 - **Education:**
     - Currently pursuing a Software Engineering degree at ALX and Multimedia University.
     - Passionate about continuous learning and staying up-to-date with industry trends.
