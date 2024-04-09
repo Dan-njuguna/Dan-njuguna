@@ -1,6 +1,6 @@
 # Dan Njuguna - Software Engineer | Data Scientist
 
-![Profile Picture](https://example.com/profile_picture.png)
+![Profile Picture]()
 
 ## About Me
 I am a passionate software engineering student at ALX and Multimedia University. With a strong background in programming and a knack for creative problem-solving, I strive to build cutting-edge solutions that stand the test of time and enhance efficiency.
@@ -39,5 +39,3 @@ Feel free to reach out to me via email at [njugunaadan@gmail.com](mailto:njuguna
     - Working towards certifications in Data Science and Cloud Computing.
     - Committed to expanding my skill set and achieving professional milestones.
     - Pursuing a Bachelor's Degree in Software Engineering.
-
-Feel free to customize and expand upon this README as needed. Best of luck with your software engineering journey! 🌟👩‍💻🚀
