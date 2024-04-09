@@ -1,6 +1,6 @@
 # Dan Njuguna - Software Engineer | Data Scientist
 
-![Profile Picture]()
+![Profile Picture](https://photos.app.goo.gl/3ASAuiFXwKXDdge56)
 
 ## About Me
 I am a passionate software engineering student at ALX and Multimedia University. With a strong background in programming and a knack for creative problem-solving, I strive to build cutting-edge solutions that stand the test of time and enhance efficiency.
