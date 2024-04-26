@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am a passionate software engineering student at ALX and Multimedia University. With a strong background in programming and a knack for creative problem-solving, I strive to build cutting-edge solutions that stand the test of time and enhance efficiency.
+I am a passionate software engineering student at Multimedia University. With a strong background in programming and a knack for creative problem-solving, I strive to build cutting-edge solutions that stand the test of time and enhance efficiency.
 
 ## Education
 - Currently pursuing a Software Engineering degree at ALX and Multimedia University.
