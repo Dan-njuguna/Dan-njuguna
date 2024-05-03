@@ -5,7 +5,7 @@
 I am a passionate software engineering student at Multimedia University. With a strong background in programming and a knack for creative problem-solving, I strive to build cutting-edge solutions that stand the test of time and enhance efficiency.
 
 ## Education
-- Currently pursuing a Software Engineering degree at ALX and Multimedia University.
+- Currently pursuing a Software Engineering degree at Multimedia University.
 - Passionate about continuous learning and staying up-to-date with industry trends.
 
 ## Projects
