@@ -14,8 +14,5 @@ I am a passionate software engineering student at Multimedia University. With a 
 - Working towards certifications in Cloud Computing.
 - Pursuing a Bachelor's Degree in Software Engineering.
 
-## Interests
-I am passionate about coding, Artificial Intelligence, and Open-source projects. You can often find me discussing these topics and sharing insights with fellow developers.
-
 ## Contact
 Feel free to reach out to me via email at [njugunaadan@gmail.com](mailto:njugunaadan@gmail.com). Let's connect and collaborate!
