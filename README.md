@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS Cloud Practitioner certification and journey.<br>👯 I’m looking to collaborate on Machine Learning Projects revolving around NLP and Remote sensing.<br>🤝 I’m looking for help with LLM projects.<br>🌱 I’m currently learning AWS Cloud services and LLMs.<br>💬 Ask me about<br>⚡ Fun fact: I love hiking, walking and cycling. Story telling is a nature.
+🔭 I’m currently working on AWS Cloud Practitioner certification and journey.<br>👯 I’m looking to collaborate on Machine Learning Projects revolving around NLP and Remote sensing.<br>🤝 I’m looking for help with LLM projects.<br>🌱 I’m currently learning AWS Cloud services and LLMs.<br>💬 Ask me about: <i>"Story za jaba"</i><br>⚡ Fun fact: I love hiking, walking and cycling. Story telling is a nature.
 
 
 ## 🌐 Socials:
