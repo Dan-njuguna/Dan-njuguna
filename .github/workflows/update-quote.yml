@@ -2,50 +2,46 @@ name: 🔁 Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0  # Important for git operations
+          fetch-depth: 0  # Get complete history for proper merging
+
+      - name: Fetch latest changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git pull origin main
 
       - name: Fetch quote from API
         id: get-quote
         run: |
-          response=$(curl -s -w "%{http_code}" https://zenquotes.io/api/today)
-          http_code=${response: -3}
-          content=${response%???}
-          
-          if [ "$http_code" != "200" ]; then
-            echo "API request failed with status $http_code"
-            exit 1
-          fi
-          
-          echo "$content" > quote.json
-          QUOTE=$(jq -r '.[0].q + " — " + .[0].a' quote.json 2>/dev/null || echo "Error parsing quote")
+          response=$(curl -s https://zenquotes.io/api/today)
+          echo "$response" > quote.json
+          QUOTE=$(jq -r '.[0].q + " — " + .[0].a' quote.json)
           echo "QUOTE=${QUOTE}" >> $GITHUB_ENV
-          echo "Fetched quote: ${QUOTE}"
 
-      - name: Update README with new quote
+      - name: Update README
         run: |
           sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n> ${QUOTE}\n<!-- QUOTE_END -->" README.md
-          echo "Updated README.md"
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          
-          git diff --quiet && git diff --staged --quiet || {
-            git add README.md
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
             git commit -m "🔁 Update daily quote: $(date +'%Y-%m-%d')"
-            git pull --rebase
+            git pull --rebase origin main
             git push origin main
-            echo "Changes pushed successfully"
-          }
+          fi
