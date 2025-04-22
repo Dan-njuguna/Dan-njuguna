@@ -5,7 +5,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Loading quote...
+> When you judge another, you do not define them, you define yourself — Wayne Dyer
 <!-- QUOTE_END -->
 
 
