@@ -9,7 +9,12 @@ jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Fetch quote from API
         id: get-quote
@@ -25,7 +30,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
           git add .
           git commit -m "🔁 update daily tech quote" || echo "No changes to commit"
           git push
