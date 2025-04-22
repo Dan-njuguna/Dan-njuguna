@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
 <h3 align="center">Machine Learning Engineer from Kenya</h3>
 
+### 🤖 Random Tech Quote
+
+<!-- QUOTE_START -->
+> Loading quote...
+<!-- QUOTE_END -->
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-njuguna&label=Profile%20views&color=0e75b6&style=flat" alt="dan-njuguna" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-njuguna" alt="dan-njuguna" /></a> </p>  -->
