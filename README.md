@@ -1,4 +1,3 @@
-# Dan Njuguna
 <h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
 <h3 align="center">Machine Learning Engineer from Kenya</h3>
 
