@@ -13,22 +13,39 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Important for git operations
 
       - name: Fetch quote from API
         id: get-quote
         run: |
-          curl -s https://zenquotes.io/api/today > quote.json
-          echo "QUOTE=$(jq -r '.content + \" — \" + .author' quote.json)" >> $GITHUB_ENV
+          response=$(curl -s -w "%{http_code}" https://zenquotes.io/api/today)
+          http_code=${response: -3}
+          content=${response%???}
+          
+          if [ "$http_code" != "200" ]; then
+            echo "API request failed with status $http_code"
+            exit 1
+          fi
+          
+          echo "$content" > quote.json
+          QUOTE=$(jq -r '.[0].q + " — " + .[0].a' quote.json 2>/dev/null || echo "Error parsing quote")
+          echo "QUOTE=${QUOTE}" >> $GITHUB_ENV
+          echo "Fetched quote: ${QUOTE}"
 
       - name: Update README with new quote
         run: |
           sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n> ${QUOTE}\n<!-- QUOTE_END -->" README.md
+          echo "Updated README.md"
 
-      - name: Push changes
+      - name: Commit and push changes
         run: |
-          git config --global user.email "njugush020@gmail.com"
-          git config --global user.name "Dan-njuguna"
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add .
-          git commit -m "🔁 update daily tech quote" || echo "No changes to commit"
-          git push
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          
+          git diff --quiet && git diff --staged --quiet || {
+            git add README.md
+            git commit -m "🔁 Update daily quote: $(date +'%Y-%m-%d')"
+            git pull --rebase
+            git push origin main
+            echo "Changes pushed successfully"
+          }
