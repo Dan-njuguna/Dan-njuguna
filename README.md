@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Self-knowledge is the beginning of self-correction. — Norman Vincent Peale
+> Over time, loneliness gets inside you and doesn't go away. — Carlos Ruiz Zafon
 <!-- QUOTE_END -->
 
 
