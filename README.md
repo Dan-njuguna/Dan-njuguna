@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Those who cannot change their minds cannot change anything. — George Bernard Shaw
+> Duty makes us do things well, but love makes us do them beautifully.   — Zig Ziglar
 <!-- QUOTE_END -->
 
 
