@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Your best life will not be found in comfort. It will be found in fighting for what you believe in. — Maxime Lagace
+> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. — Sun Tzu
 <!-- QUOTE_END -->
 
 
