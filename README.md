@@ -34,9 +34,11 @@
 -->
 
 
-<!-- ![Dan-njuguna's Stats](https://github-readme-stats.vercel.app/api?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![Dan-njuguna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&theme=vue-dark&hide_border=false)
-![Dan-njuguna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
+<!-- ![Dan-njuguna's Stats](https://github-readme-stats.vercel.app/api?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&theme=vue-dark&hide_border=false" alt="Dan Njuguna Stats">
+</p>
+<!-- ![Dan-njuguna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
 
 ### 🛠️ Languages and Tools
 
