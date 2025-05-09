@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> 20 percent of your activities will account for 80 percent of your results. — Brian Tracy
+> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. — Zig Ziglar
 <!-- QUOTE_END -->
 
 
