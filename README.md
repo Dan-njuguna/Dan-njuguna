@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> The majority of what you want will come from the minority of what you do. — Gary Keller
+> We don't stop playing because we grow old; we grow old because we stop playing. — George Bernard Shaw
 <!-- QUOTE_END -->
 
 
