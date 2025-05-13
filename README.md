@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> There is no sadder sight than a young pessimist. — Mark Twain
+> People are doing the best that they can from their own level of consciousness. — Deepak Chopra
 <!-- QUOTE_END -->
 
 
