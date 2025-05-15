@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Amateurs sit and wait for inspiration, the rest of us just get up and got to work. — Stephen King
+> The future belongs to those who learn more skills and combine them in creative ways. — Robert Greene
 <!-- QUOTE_END -->
 
 
