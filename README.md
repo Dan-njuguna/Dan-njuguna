@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> The future belongs to those who learn more skills and combine them in creative ways. — Robert Greene
+> In youth we run into difficulties. In old age difficulties run into us.  — Beverly Sills
 <!-- QUOTE_END -->
 
 
