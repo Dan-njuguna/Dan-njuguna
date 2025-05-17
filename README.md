@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> In youth we run into difficulties. In old age difficulties run into us.  — Beverly Sills
+> Sometimes you have to lose all you have to find out who you truly are. — Roy T. Bennett
 <!-- QUOTE_END -->
 
 
