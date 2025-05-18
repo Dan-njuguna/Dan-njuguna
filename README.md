@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Sometimes you have to lose all you have to find out who you truly are. — Roy T. Bennett
+> Pleasure can be supported by an illusion; but happiness rests upon truth.  — Nicolas Chamfort
 <!-- QUOTE_END -->
 
 
