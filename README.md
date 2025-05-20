@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> Nothing good ever comes of violence. — Martin Luther
+> An investment in knowledge pays the best interest. — Benjamin Franklin
 <!-- QUOTE_END -->
 
 
