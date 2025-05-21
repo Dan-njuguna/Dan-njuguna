@@ -40,6 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&theme=vue-dark&hide_border=false" alt="Dan Njuguna Stats">
 </p>
 <!-- ![Dan-njuguna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
+
 ### 🛠️ Languages and Tools
 
 #### 👨‍💻 Languages  
