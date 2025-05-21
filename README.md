@@ -4,7 +4,7 @@
 ### 🤖 Random Tech Quote
 
 <!-- QUOTE_START -->
-> An investment in knowledge pays the best interest. — Benjamin Franklin
+> Human beings believe just as they breathe - in order to survive. — Carlos Ruiz Zafon
 <!-- QUOTE_END -->
 
 
