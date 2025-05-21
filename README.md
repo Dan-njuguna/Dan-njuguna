@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
 <h3 align="center">Machine Learning Engineer from Kenya</h3>
 
-### 🤖 Random Tech Quote
+### 🤖 Random Quote
 
 <!-- QUOTE_START -->
 > Human beings believe just as they breathe - in order to survive. — Carlos Ruiz Zafon
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **njugunahdann@gmail.com**
 
-- ⚡ Fun fact **I think I forgot my name.**
+- ⚡ Fun fact **I think I forgot ... --.**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Dan Njuguna's GitHub Stats" />
@@ -65,7 +65,7 @@
 #### 🖥️ Backend / APIs / Databases  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> &nbsp;
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> &nbsp; -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
