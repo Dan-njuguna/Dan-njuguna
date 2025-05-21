@@ -12,6 +12,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-njuguna" alt="dan-njuguna" /></a> </p>  -->
 
+<a href="https://wakatime.com/@60def35f-d5a8-4013-9e6c-262fba49efa6"><img src="https://wakatime.com/badge/user/60def35f-d5a8-4013-9e6c-262fba49efa6.svg" alt="Total time coded since Apr 23 2024" /></a>
 <p align="left"> <a href="https://twitter.com/c10ud_reformist" target="blank"><img src="https://img.shields.io/twitter/follow/c10ud_reformist?logo=twitter&style=for-the-badge" alt="c10ud_reformist" /></a> </p>
 
 - 🌱 I’m currently learning **Go Programming.**
@@ -39,7 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&theme=vue-dark&hide_border=false" alt="Dan Njuguna Stats">
 </p>
 <!-- ![Dan-njuguna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
-
 ### 🛠️ Languages and Tools
 
 #### 👨‍💻 Languages  
