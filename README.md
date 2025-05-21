@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/c10ud_reformist" target="blank"><img src="https://img.shields.io/twitter/follow/c10ud_reformist?logo=twitter&style=for-the-badge" alt="c10ud_reformist" /></a> </p>
 
-- 🌱 I’m currently learning **Go Programming, Cloud Architect on Google Cloud.**
+- 🌱 I’m currently learning **Go Programming.**
 
 - 👯 I’m looking to collaborate on **Machine Learning Research**
 
