@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. — Spencer Johnson
+> The chief danger in life is that you may take too many precautions. — Alfred Adler
 <!-- QUOTE_END -->
 
 
