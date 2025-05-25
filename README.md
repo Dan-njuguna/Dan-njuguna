@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.  — Paramahansa Yogananda
+> Be where your enemy is not. — Sun Tzu
 <!-- QUOTE_END -->
 
 
