@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Be where your enemy is not. — Sun Tzu
+> Deliberately seek the company of people who influence you to think and act on building the life you desire. — Napoleon Hill
 <!-- QUOTE_END -->
 
 
