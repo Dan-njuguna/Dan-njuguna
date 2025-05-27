@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Deliberately seek the company of people who influence you to think and act on building the life you desire. — Napoleon Hill
+> Thinking will not overcome fear but action will.  — W. Clement Stone
 <!-- QUOTE_END -->
 
 
