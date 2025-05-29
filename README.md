@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> To some degree, you control your life by controlling your time. — Conrad Hilton
+> We forge the chains we wear in life. — Charles Dickens
 <!-- QUOTE_END -->
 
 
