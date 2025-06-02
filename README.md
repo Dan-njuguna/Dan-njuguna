@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Time goes from present to past. — Shunryu Suzuki
+> Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. — Dogen
 <!-- QUOTE_END -->
 
 
