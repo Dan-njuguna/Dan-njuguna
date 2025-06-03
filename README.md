@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. — Dogen
+> Dreams are the touchstones of our characters. — Henry David Thoreau
 <!-- QUOTE_END -->
 
 
