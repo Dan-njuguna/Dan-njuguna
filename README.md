@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Dreams are the touchstones of our characters. — Henry David Thoreau
+> Through selfless service, you will always be fruitful and find the fulfillment of your desires. — Bhagavad Gita
 <!-- QUOTE_END -->
 
 
