@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **njugunahdann@gmail.com**
 
-- ⚡ Fun fact **I think I forgot ... --.**
+- ⚡
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Dan Njuguna's GitHub Stats" />
