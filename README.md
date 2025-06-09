@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. — Arnold Schwarzenegger
+> One is never afraid of the unknown; one is afraid of the known coming to an end. — Jiddu Krishnamurti
 <!-- QUOTE_END -->
 
 
