@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> When you want to be honored by others, you learn to honor them first. — Sathya Sai Baba
+> Even in the grave, all is not lost. — Edgar Allan Poe
 <!-- QUOTE_END -->
 
 
