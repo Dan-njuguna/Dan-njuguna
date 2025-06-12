@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Even in the grave, all is not lost. — Edgar Allan Poe
+> Debt is the slavery of the free. — Publilius Syrus
 <!-- QUOTE_END -->
 
 
