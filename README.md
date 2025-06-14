@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Most people fail in life because they major in minor things. — Tony Robbins
+> The key to success is action. — Brian Tracy
 <!-- QUOTE_END -->
 
 
