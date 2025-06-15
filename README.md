@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> The key to success is action. — Brian Tracy
+> Little minds have little worries, big minds have no time for worries. — Ralph Waldo Emerson
 <!-- QUOTE_END -->
 
 
