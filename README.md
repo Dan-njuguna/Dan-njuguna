@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Little minds have little worries, big minds have no time for worries. — Ralph Waldo Emerson
+> Facts are the enemy of truth.  — Miguel de Cervantes
 <!-- QUOTE_END -->
 
 
