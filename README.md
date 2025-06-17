@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Facts are the enemy of truth.  — Miguel de Cervantes
+> It's not what you pay a man, but what he costs you that counts. — Will Rogers
 <!-- QUOTE_END -->
 
 
