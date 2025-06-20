@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> A self that goes on changing is a self that goes on living. — Virginia Woolf
+> Life happens in the river, not the shore. — Maxime Lagace
 <!-- QUOTE_END -->
 
 
