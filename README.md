@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Life happens in the river, not the shore. — Maxime Lagace
+> In the middle of chaos lies opportunity.   — Bruce Lee
 <!-- QUOTE_END -->
 
 
