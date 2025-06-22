@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> In the middle of chaos lies opportunity.   — Bruce Lee
+> If you chase two rabbits, you catch none. — Confucius
 <!-- QUOTE_END -->
 
 
