@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> If you chase two rabbits, you catch none. — Confucius
+> A person hears only what they understand. — Johann Wolfgang von Goethe
 <!-- QUOTE_END -->
 
 
