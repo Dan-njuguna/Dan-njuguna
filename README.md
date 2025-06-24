@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> A person hears only what they understand. — Johann Wolfgang von Goethe
+> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. — Eckhart Tolle
 <!-- QUOTE_END -->
 
 
