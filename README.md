@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. — Eckhart Tolle
+> Wheels of justice grind slow but grind fine. — Sun Tzu
 <!-- QUOTE_END -->
 
 
