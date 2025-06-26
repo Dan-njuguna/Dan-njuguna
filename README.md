@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Wheels of justice grind slow but grind fine. — Sun Tzu
+> Discontent is the first necessity of progress. — Thomas Edison
 <!-- QUOTE_END -->
 
 
