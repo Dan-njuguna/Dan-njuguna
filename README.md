@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Discontent is the first necessity of progress. — Thomas Edison
+> For fast-acting relief try slowing down. — Lily Tomlin
 <!-- QUOTE_END -->
 
 
