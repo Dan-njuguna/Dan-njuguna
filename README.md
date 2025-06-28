@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> For fast-acting relief try slowing down. — Lily Tomlin
+> Sadness is but a wall between two gardens. — Kahlil Gibran
 <!-- QUOTE_END -->
 
 
