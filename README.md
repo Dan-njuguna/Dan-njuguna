@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Sadness is but a wall between two gardens. — Kahlil Gibran
+> Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. — Conrad Hilton
 <!-- QUOTE_END -->
 
 
