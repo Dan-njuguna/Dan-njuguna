@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. — Conrad Hilton
+> No man is happy unless he believes he is. — Publilius Syrus
 <!-- QUOTE_END -->
 
 
