@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Some of us learn from other people's mistakes and the rest of us have to be other people.   — Zig Ziglar
+> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. — Peter Drucker
 <!-- QUOTE_END -->
 
 
