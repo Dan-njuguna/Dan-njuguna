@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Always focus on the front windshield and not the rear view mirror. — Colin Powell
+> Not all those who wander are lost. — J.R.R. Tolkien
 <!-- QUOTE_END -->
 
 
