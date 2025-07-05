@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> Not all those who wander are lost. — J.R.R. Tolkien
+> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  — Charles Swindoll
 <!-- QUOTE_END -->
 
 
