@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  — Charles Swindoll
+> The longer we dwell on our misfortunes, the greater is their power to harm us. — Voltaire
 <!-- QUOTE_END -->
 
 
