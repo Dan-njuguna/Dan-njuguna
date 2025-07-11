@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> The whole is greater than the sum of its parts. — Aristotle
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   — Wayne Dyer
 <!-- QUOTE_END -->
 
 
