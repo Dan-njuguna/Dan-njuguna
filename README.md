@@ -4,7 +4,7 @@
 ### 🤖 Random Quote
 
 <!-- QUOTE_START -->
-> You will succeed because most people are lazy. — Shahir Zag
+> Well done is better than well said. — Benjamin Franklin
 <!-- QUOTE_END -->
 
 
