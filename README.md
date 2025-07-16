@@ -10,7 +10,11 @@
 <h3 align="left">About Me</h3>
 
 <p>
-  I’m a Machine Learning Engineer obsessed with data, code, and Kenyan rap music. I’m driven by curiosity, a sense of humor, and the belief that the greatest soft skill in life—and in tech—is empathy. I firmly believe in human dignity, unity and diversity. It's kinda like the human `trinity` . I live by the <b>Japanese</b> principle of <b>Kaizen</b>, that I am constantly improving, constantly evolving. I can only be better, today and forever!
+  I’m a Machine Learning Engineer obsessed with data, clean code, and Kenyan rap music. I'm fueled by curiosity, a sense of humor, and a firm belief that empathy is the ultimate soft skill—in life and in tech. I believe deeply in human dignity, unity, and diversity. It's kinda like the human <code>trinity</code>.
+</p>
+
+<p>
+  I live by the Japanese principle of <em>Kaizen</em>: always improving, always evolving. I’m committed to being better today—and forever.
 </p>
 
 <ul>
@@ -134,4 +138,4 @@
 
 ### 🎧 Spotify Jams
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wssh66w7jandaa5jo73bncdnsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wssh66w7jandaa5jo73bncdnsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
