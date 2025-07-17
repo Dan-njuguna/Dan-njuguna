@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> "Well done is better than well said." — Benjamin Franklin
+> Ponder and deliberate before you make a move. — Sun Tzu
 <!-- QUOTE_END -->
 
 ---
