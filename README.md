@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Ponder and deliberate before you make a move. — Sun Tzu
+> Better a diamond with a flaw than a pebble without one. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
