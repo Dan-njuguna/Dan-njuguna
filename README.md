@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Words used to attract the dull of wit are not to be relied on. — Huang Po
+> You're on earth. There's no cure for that. — Samuel Beckett
 <!-- QUOTE_END -->
 
 ---
