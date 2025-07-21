@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> You're on earth. There's no cure for that. — Samuel Beckett
+> Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj
 <!-- QUOTE_END -->
 
 ---
