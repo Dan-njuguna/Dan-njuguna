@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj
+> Your work is to discover your work and then, with all your heart, to give yourself to it. — Buddha
 <!-- QUOTE_END -->
 
 ---
