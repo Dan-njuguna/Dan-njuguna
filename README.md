@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Originality is the fine art of remembering what you hear but forgetting where you heard it.  — Laurence J. Peter
+> When you're curious, you find lots of interesting things to do. — Walt Disney
 <!-- QUOTE_END -->
 
 ---
