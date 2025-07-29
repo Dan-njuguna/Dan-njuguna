@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Confidence comes from crossing thresholds. — Kamal Ravikant
+> What you do today can improve all your tomorrows. — Ralph Marston
 <!-- QUOTE_END -->
 
 ---
