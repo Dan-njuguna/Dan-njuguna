@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> What you do today can improve all your tomorrows. — Ralph Marston
+> Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  — Herodotus
 <!-- QUOTE_END -->
 
 ---
