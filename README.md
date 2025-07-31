@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  — Herodotus
+> One mistake does not have to rule a person's entire life. — Joyce Meyer
 <!-- QUOTE_END -->
 
 ---
