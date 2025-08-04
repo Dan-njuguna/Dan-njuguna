@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> How many times do you have to get hit over the head until you figure out who's hitting you? — Harry S. Truman
+> The only limits in your life are those that you set yourself. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
