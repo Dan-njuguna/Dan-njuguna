@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> The only limits in your life are those that you set yourself. — Celestine Chua
+> Among the things you can give and still keep are your word, a smile, and a grateful heart. — Zig Ziglar
 <!-- QUOTE_END -->
 
 ---
