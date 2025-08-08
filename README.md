@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Be yourself; everyone else is already taken. — Oscar Wilde
+> Fishing is much more than fish. — Herbert Hoover
 <!-- QUOTE_END -->
 
 ---
