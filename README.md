@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Fishing is much more than fish. — Herbert Hoover
+> Don't criticize what you can't understand.  — Bob Dylan
 <!-- QUOTE_END -->
 
 ---
