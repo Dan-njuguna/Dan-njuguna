@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Some people feel the rain. Others just get wet.  — Bob Dylan
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — Richard Bach
 <!-- QUOTE_END -->
 
 ---
