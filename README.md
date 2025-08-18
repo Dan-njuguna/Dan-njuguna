@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — Richard Bach
+> Happiness is an effect of doing what you love, not an end goal to be achieved. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
