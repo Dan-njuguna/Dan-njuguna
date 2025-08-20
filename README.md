@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> It is not uncommon for people to spend their whole life waiting to start living. — Eckhart Tolle
+> You are the average of the five people you spend most time with. — Jim Rohn
 <!-- QUOTE_END -->
 
 ---
