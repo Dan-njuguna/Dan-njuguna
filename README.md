@@ -109,9 +109,9 @@
   <a href="https://twitter.com/c10ud_reformist" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c10ud_reformist" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/dan_njugunah" target="_blank">
+<!--   <a href="https://instagram.com/dan_njugunah" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan_njugunah" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <p align="left">
