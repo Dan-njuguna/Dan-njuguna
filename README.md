@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> You are the average of the five people you spend most time with. — Jim Rohn
+> You can avoid reality, but you cannot avoid the consequences of avoiding reality. — Ayn Rand
 <!-- QUOTE_END -->
 
 ---
