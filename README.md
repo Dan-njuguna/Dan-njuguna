@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> You can avoid reality, but you cannot avoid the consequences of avoiding reality. — Ayn Rand
+> A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
