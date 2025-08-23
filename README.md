@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb
+> Do the hard jobs first. The easy jobs will take care of themselves. — Dale Carnegie
 <!-- QUOTE_END -->
 
 ---
