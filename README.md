@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> The more we value things, the less we value ourselves.   — Bruce Lee
+> Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
