@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. — Celestine Chua
+> Keep your face to the sunshine and you cannot see the shadows. — Helen Keller
 <!-- QUOTE_END -->
 
 ---
