@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
+8<h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
 <h3 align="center">Machine Learning Engineer | Kenya 🇰🇪</h3>
 
 <p align="center">
@@ -136,6 +136,8 @@
 
 ---
 
+<!--
 ### 🎧 Spotify Jams
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wssh66w7jandaa5jo73bncdnsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+-->
