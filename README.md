@@ -131,7 +131,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> There is always risk, so learn to manage risk instead of avoiding it. — Robert Kiyosaki
+> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   — Estee Lauder
 <!-- QUOTE_END -->
 
 ---
