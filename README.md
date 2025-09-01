@@ -24,17 +24,29 @@
   <li>💻 I write code, rethink it, criticize it, and iterate until it sings.</li>
 </ul>
 
-<p>
-  When I started crafting this profile, I thought I’d write a story. Turns out, I’m living it. And in that story, discipline always wins over being just smart.
-</p>
+---
+
+<h3 align="left">Uncle Dan, the Compter Teacher✨ — Poem</h3>
 
 <p>
-  "Surgery tunafanya bila mamistakes." — <em>Nyashinski in Free</em>
+  Uncle teaches machines each day,</br>
+  How to learn, think, and find the way,</br>
+  He shows them cats, he shows them dogs, </br>
+  He helps them count, like math with logs.</br>
+  </br>
+  The Computers learn, they start to grow,</br>
+  They answer questions, "Yes, I know!" </br>
+  They help ge doctor, they help the shop,</br>
+  They make life easy, nonstop!</br>
+  </br>
+  So Uncle's job is clear and tru, </br>
+  He teaches computers — like teachers do.</br>
+  he's a hero with code, both kind and smart,</br>
+  Helping machines play their part.</br>
+  </br>
 </p>
 
-<p>
-  I love Kenyan rap❤️. Almost as much as I love shipping clean code. Let’s jam, vibe, and maybe debug code and vibes together. My Spotify link’s below if you want a soundtrack for this journey.
-</p>
+— 0xN3ur41, with smiles
 
 ---
 
