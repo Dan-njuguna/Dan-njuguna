@@ -143,7 +143,7 @@
 ### 💡 Random Quote
 
 <!-- QUOTE_START -->
-> Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. — Steve Harvey
+> A lot of people have gone further than they thought they could because someone else thought they could. — Zig Ziglar
 <!-- QUOTE_END -->
 
 ---
