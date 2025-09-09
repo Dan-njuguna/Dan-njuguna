@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> **Professional Summary**
+## **Professional Summary**
 
 <table>
 <tr>
@@ -32,7 +32,7 @@
 
 **Contact Information:**
 - 📧 **Email:** njugunahdann@gmail.com
-- 🐦 **Twitter:** [@c10ud_reformist](https://twitter.com/c10ud_reformist)
+- 🐦 **Twitter/X:** [@0xN3ur41](https://twitter.com/0xN3ur41)
 - 🌍 **Location:** Nairobi, Kenya 🇰🇪
 - 🎵 **Currently Vibing:** Nyashinski 🎧
 
@@ -42,7 +42,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Skills" width="35" height="35" /> **Technical Expertise**
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/gear_2699-fe0f.png" alt="Skills" width="35" height="35" /> **Technical Expertise**
 
 <div align="center">
 
@@ -138,51 +138,54 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Experience" width="35" height="35" /> **Current Focus & Learning**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🌱 Learning] --> B[Go Programming]
-    C[👥 Collaborating] --> D[ML Research Projects]
-    E[💡 Expertise] --> F[Machine Learning]
-    E --> G[Large Language Models]
-    E --> H[Prompt Engineering]
-    
-    style A fill:#8A2BE2,stroke:#fff,color:#fff
-    style C fill:#FF6B35,stroke:#fff,color:#fff
-    style E fill:#6A5ACD,stroke:#fff,color:#fff
-```
-
-</div>
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/books_1f4da.png" alt="Experience" width="35" height="35" /> **Current Focus & Open For**
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" width="40"/>
-<h4>🌱 Currently Learning</h4>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/green-book_1f4d7.png" width="40"/>
+<h4>Currently Learning</h4>
 <p><strong>Go Programming</strong><br/>
 Expanding backend development skills for high-performance systems</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40"/>
-<h4>🔬 Research Interests</h4>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/light-bulb_1f4a1.png" width="40"/>
+<h4>Research Interests</h4>
 <p><strong>ML Research</strong><br/>
 Open to collaborations on cutting-edge AI projects</p>
 </td>
 <td align="center" width="33%">
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/brain_1f9e0.png" width="40"/>
-<h4>💬 Ask Me About</h4>
+<h4>Ask Me About</h4>
 <p><strong>AI/ML Solutions</strong><br/>
 LLMs, Prompt Engineering, ML Architecture</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/briefcase_1f4bc.png" width="40"/>
+<h4>Consulting</h4>
+<p><strong>AI/ML Projects</strong><br/>
+Helping teams build and scale intelligent systems</p>
+</td>
+<td align="center" width="33%">
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/microphone_1f3a4.png" width="40"/>
+<h4>Speaking</h4>
+<p><strong>Tech Events</strong><br/>
+Conferences, meetups & knowledge sharing</p>
+</td>
+<td align="center" width="33%">
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/memo_1f4dd.png" width="40"/>
+<h4>Technical Writing</h4>
+<p><strong>Knowledge Sharing</strong><br/>
+Documenting AI/ML best practices & research</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> **Performance Metrics**
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/bar-chart_1f4ca.png" alt="Stats" width="35" height="35" /> **Performance Metrics**
 
 <div align="center">
 
@@ -194,7 +197,7 @@ LLMs, Prompt Engineering, ML Architecture</p>
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="30"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/keyboard_2328-fe0f.png" width="30"/>
 <br/>
 <a href="https://wakatime.com/@60def35f-d5a8-4013-9e6c-262fba49efa6">
 <img src="https://wakatime.com/badge/user/60def35f-d5a8-4013-9e6c-262fba49efa6.svg?style=for-the-badge&color=8A2BE2" alt="Coding Time" />
@@ -208,14 +211,14 @@ LLMs, Prompt Engineering, ML Architecture</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" height="35" /> **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
-<a href="https://twitter.com/c10ud_reformist">
+<a href="https://twitter.com/0xN3ur41">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF6B35" alt="Twitter" />
 </a>
 </td>
@@ -232,38 +235,27 @@ LLMs, Prompt Engineering, ML Architecture</p>
 </tr>
 </table>
 
-<br/>
-
-<div align="center", style="border: none;">
-
-### Open for:
-
-🤝 **Collaborations** — Machine Learning Research  
-💼 **Consulting** — AI/ML Projects  
-🎤 **Speaking** — Tech Events & Conferences  
-📝 **Technical Writing** — Knowledge Sharing  
-
 </div>
 
-<div align="center">
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Philosophy" width="35" height="35" /> **Philosophy & Values**
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/spiral-calendar_1f5d3-fe0f.png" alt="Philosophy" width="35" height="35" /> **Philosophy & Values**
 
 <table align="center" style="border: none;">
 <tr>
 <td align="center" width="33%" style="border: none;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mount%20Fuji.png" width="40"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/mount-fuji_1f5fb.png" width="40"/>
 <h4>改善 Kaizen</h4>
 <p><em>"Always improving, always evolving"</em></p>
 </td>
 <td align="center" width="33%" style="border: none;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="40"/>
-<h4>Empathy</h4>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/red-heart_2764-fe0f.png" width="40"/>
+<h4>❤️ Empathy</h4>
 <p><em>"The ultimate soft skill in tech and life"</em></p>
 </td>
 <td align="center" width="33%" style="border: none;">
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/link_1f517.png" width="40"/>
-<h4>Unity</h4>
+<h4>🔗 Unity</h4>
 <p><em>"Human dignity, diversity, and collaboration"</em></p>
 </td>
 </tr>
@@ -280,8 +272,6 @@ LLMs, Prompt Engineering, ML Architecture</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 
-<img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-kenya_1f1f0-1f1ea.png" width="25"/> **Proudly Made in Kenya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="25"/>
-
-</div>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-kenya_1f1f0-1f1ea.png" width="25"/> **Proudly Made in Kenya** <img src="https://em-content.zobj.net/thumbs/240/apple/354/purple-heart_1f49c.png" width="25"/>
 
 </div>
