@@ -268,8 +268,11 @@ LLMs, Prompt Engineering, ML Architecture</p>
 </tr>
 </table>
 
-### 💭 **Daily Wisdom**
-> *"A fall into a ditch makes you wiser."* — Chinese Proverb
+### 💡 Random Quote
+
+<!-- QUOTE_START -->
+> A fall into a ditch makes you wiser. — Chinese Proverb
+<!-- QUOTE_END -->
 
 ---
 
