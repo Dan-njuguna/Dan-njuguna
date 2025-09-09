@@ -1,155 +1,280 @@
-<h1 align="center">Hi 👋, I'm Dan Njuguna</h1>
-<h3 align="center">Machine Learning Engineer | Kenya 🇰🇪</h3>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Dan%20Njuguna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kenya%20🇰🇪&descAlignY=55&descAlign=50)</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dan-njuguna&label=Profile%20views&color=0e75b6&style=flat" alt="dan-njuguna" />
-</p>
+<div align="center">
 
----
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=0xN3ur41+%7C+Teaching+AI+to+Think;Transforming+Data+into+Intelligent+Solutions;Scaling+Beyond+Human+Limits+with+Code)
 
-<h3 align="left">About Me</h3>
+<img src="https://komarev.com/ghpvc/?username=dan-njuguna&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=FF6B35" alt="Profile Views" />
 
-<p>
-  I’m a Machine Learning Engineer obsessed with data, clean code, and Kenyan rap music. I'm fueled by curiosity, a sense of humor, and a firm belief that empathy is the ultimate soft skill—in life and in tech. I believe deeply in human dignity, unity, and diversity. It's kinda like the human <code>trinity</code>.
-</p>
-
-<p>
-  I live by the Japanese principle of <em>Kaizen</em>: always improving, always evolving. I’m committed to being better today—and forever.
-</p>
-
-<ul>
-  <li>🎧 Currently vibing to <strong>Nyashinski</strong> in my head while I code.</li>
-  <li>😴 Debugging happens even in my dreams.</li>
-  <li>📝 Storytelling is my thing—whether in code, blogs, or life itself.</li>
-  <li>💻 I write code, rethink it, criticize it, and iterate until it sings.</li>
-</ul>
+</div>
 
 ---
 
-<h3 align="left">Uncle Dan, the Compter Teacher✨ — Poem</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> **Professional Summary**
 
-<p>
-  Uncle teaches machines each day,</br>
-  How to learn, think, and find the way,</br>
-  He shows them cats, he shows them dogs, </br>
-  He helps them count, like math with logs.</br>
-  </br>
-  The Computers learn, they start to grow,</br>
-  They answer questions, "Yes, I know!" </br>
-  They help ge doctor, they help the shop,</br>
-  They make life easy, nonstop!</br>
-  </br>
-  So Uncle's job is clear and tru, </br>
-  He teaches computers — like teachers do.</br>
-  he's a hero with code, both kind and smart,</br>
-  Helping machines play their part.</br>
-  </br>
-</p>
+<table>
+<tr>
+<td width="60%">
 
-— 0xN3ur41, with smiles
+**Machine Learning Engineer** with a passion for building intelligent systems that solve real-world problems. Specialized in developing scalable AI solutions, from data preprocessing to model deployment. Strong advocate for clean, maintainable code and continuous learning through the **Kaizen** philosophy.
 
----
+**Core Strengths:**
+- 🎯 **AI/ML Development** - End-to-end machine learning pipeline design
+- 📊 **Data Engineering** - Large-scale data processing and analysis  
+- 🚀 **Model Deployment** - Production-ready AI system implementation
+- 🧠 **Research** - Exploring cutting-edge ML techniques and applications
+- 💡 **Problem Solving** - Creative solutions for complex technical challenges
 
-### 🚀 What I'm Up To
+</td>
+<td width="40%">
 
-- 🌱 Currently learning **Go Programming**
-- 👯 Open to collaborating on **Machine Learning Research**
-- 💬 Ask me about **Machine Learning, LLMs, Prompt Engineering**
-- 📫 Reach me at **njugunahdann@gmail.com**
-- 🎵 Music Preference: Everything **Nyashinski** sings
-- 💫 Simply **1 of 1**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Animation" width="100%" />
+
+**Contact Information:**
+- 📧 **Email:** njugunahdann@gmail.com
+- 🐦 **Twitter:** [@c10ud_reformist](https://twitter.com/c10ud_reformist)
+- 🌍 **Location:** Nairobi, Kenya 🇰🇪
+- 🎵 **Currently Vibing:** Nyashinski 🎧
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Skills & Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Skills" width="35" height="35" /> **Technical Expertise**
 
-#### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-</p>
+<div align="center">
 
-#### 🤖 Machine Learning / AI
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-</p>
+### 🤖 **Artificial Intelligence & Machine Learning**
 
-#### 🖥️ Backend / APIs / Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+<br/><sub><b>PyTorch</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+<br/><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+<br/><sub><b>Scikit-Learn</b></sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<br/><sub><b>Pandas</b></sub>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+<br/><sub><b>OpenCV</b></sub>
+</td>
+</tr>
+</table>
 
-#### ☁️ DevOps / Cloud / Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</p>
+### 💻 **Development & Infrastructure**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=go" width="50"/>
+<br/><sub><b>Go</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+<br/><sub><b>C</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="50"/>
+<br/><sub><b>Bash</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<br/><sub><b>MySQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<br/><sub><b>Docker</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+<br/><sub><b>Google Cloud</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br/><sub><b>AWS</b></sub>
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+<br/><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Experience" width="35" height="35" /> **Current Focus & Learning**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Dan Njuguna's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&theme=vue-dark&hide_border=false" alt="Dan Njuguna's Streak Stats">
-</p>
+```mermaid
+graph LR
+    A[🌱 Learning] --> B[Go Programming]
+    C[👥 Collaborating] --> D[ML Research Projects]
+    E[💡 Expertise] --> F[Machine Learning]
+    E --> G[Large Language Models]
+    E --> H[Prompt Engineering]
+    
+    style A fill:#8A2BE2,stroke:#fff,color:#fff
+    style C fill:#FF6B35,stroke:#fff,color:#fff
+    style E fill:#6A5ACD,stroke:#fff,color:#fff
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" width="40"/>
+<h4>🌱 Currently Learning</h4>
+<p><strong>Go Programming</strong><br/>
+Expanding backend development skills for high-performance systems</p>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40"/>
+<h4>🔬 Research Interests</h4>
+<p><strong>ML Research</strong><br/>
+Open to collaborations on cutting-edge AI projects</p>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40"/>
+<h4>💬 Ask Me About</h4>
+<p><strong>AI/ML Solutions</strong><br/>
+LLMs, Prompt Engineering, ML Architecture</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> **Performance Metrics**
 
-<p align="left">
-  <a href="https://twitter.com/c10ud_reformist" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c10ud_reformist" height="30" width="40" />
-  </a>
-<!--   <a href="https://instagram.com/dan_njugunah" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan_njugunah" height="30" width="40" />
-  </a> -->
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://twitter.com/c10ud_reformist" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/c10ud_reformist?logo=twitter&style=for-the-badge" alt="c10ud_reformist" />
-  </a>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=FF6B35&text_color=2d3748&bg_color=ffffff&border_radius=15&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&hide_border=true&background=ffffff&stroke=8A2BE2&ring=FF6B35&fire=FF6B35&currStreakLabel=8A2BE2&sideLabels=6A5ACD&currStreakNum=2d3748&sideNums=2d3748&dates=2d3748&border_radius=15" alt="GitHub Streak" />
 
-<p>
-  <a href="https://wakatime.com/@60def35f-d5a8-4013-9e6c-262fba49efa6">
-    <img src="https://wakatime.com/badge/user/60def35f-d5a8-4013-9e6c-262fba49efa6.svg" alt="Total time coded since Apr 23 2024" />
-  </a>
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="30"/>
+<br/>
+<a href="https://wakatime.com/@60def35f-d5a8-4013-9e6c-262fba49efa6">
+<img src="https://wakatime.com/badge/user/60def35f-d5a8-4013-9e6c-262fba49efa6.svg?style=for-the-badge&color=8A2BE2" alt="Coding Time" />
+</a>
+<br/><sub><b>Total Coding Time</b></sub>
+</td>
+</tr>
+</table>
 
-### 💡 Random Quote
-
-<!-- QUOTE_START -->
-> A fall into a ditch makes you wiser. — Chinese Proverb
-<!-- QUOTE_END -->
+</div>
 
 ---
 
-<!--
-### 🎧 Spotify Jams
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" height="35" /> **Let's Connect & Collaborate**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wssh66w7jandaa5jo73bncdnsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
--->
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://twitter.com/c10ud_reformist">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF6B35" alt="Twitter" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:njugunahdann@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2" alt="Gmail" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Dan-njuguna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD" alt="GitHub" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Open for:**
+- 🤝 **Collaborations** on Machine Learning Research
+- 💼 **Consulting** on AI/ML Projects  
+- 🎤 **Speaking** at Tech Events & Conferences
+- 📝 **Technical Writing** & Knowledge Sharing
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Philosophy" width="35" height="35" /> **Philosophy & Values**
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center" width="33%" style="border: none;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mount%20Fuji.png" width="40"/>
+<h4>改善 Kaizen</h4>
+<p><em>"Always improving, always evolving"</em></p>
+</td>
+<td align="center" width="33%" style="border: none;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40"/>
+<h4>Empathy</h4>
+<p><em>"The ultimate soft skill in tech and life"</em></p>
+</td>
+<td align="center" width="33%" style="border: none;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Africa-Europe.png" width="40"/>
+<h4>Unity</h4>
+<p><em>"Human dignity, diversity, and collaboration"</em></p>
+</td>
+</tr>
+</table>
+
+### 💭 **Daily Wisdom**
+> *"A fall into a ditch makes you wiser."* — Chinese Proverb
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flag%20Kenya.png" width="25"/> **Proudly Made in Kenya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="25"/>
+
+</div>
