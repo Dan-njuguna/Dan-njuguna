@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=0xN3ur41+%7C+Teaching+AI+to+Think;Transforming+Data+into+Intelligent+Solutions;Scaling+Beyond+Human+Limits+with+Code)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=8A2BE2&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=0xN3ur41+%7C+Teaching+AI+to+Think;Transforming+Data+into+Intelligent+Solutions;Scaling+Beyond+Human+Limits+with+Code)
 
 <img src="https://komarev.com/ghpvc/?username=dan-njuguna&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=FF6B35" alt="Profile Views" />
 
@@ -172,7 +172,7 @@ Expanding backend development skills for high-performance systems</p>
 Open to collaborations on cutting-edge AI projects</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/brain_1f9e0.png" width="40"/>
 <h4>💬 Ask Me About</h4>
 <p><strong>AI/ML Solutions</strong><br/>
 LLMs, Prompt Engineering, ML Architecture</p>
@@ -186,8 +186,8 @@ LLMs, Prompt Engineering, ML Architecture</p>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=FF6B35&text_color=2d3748&bg_color=ffffff&border_radius=15&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&hide_border=true&background=ffffff&stroke=8A2BE2&ring=FF6B35&fire=FF6B35&currStreakLabel=8A2BE2&sideLabels=6A5ACD&currStreakNum=2d3748&sideNums=2d3748&dates=2d3748&border_radius=15" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&border_radius=15&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&hide_border=true&background=0d1117&stroke=8A2BE2&ring=FF6B35&fire=FF6B35&currStreakLabel=8A2BE2&sideLabels=6A5ACD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" />
 
 <br/>
 
@@ -234,15 +234,16 @@ LLMs, Prompt Engineering, ML Architecture</p>
 
 <br/>
 
-**Open for:**
-- 🤝 **Collaborations** on Machine Learning Research
-- 💼 **Consulting** on AI/ML Projects  
-- 🎤 **Speaking** at Tech Events & Conferences
-- 📝 **Technical Writing** & Knowledge Sharing
+<div align="center", style="border: none;">
+
+### Open for:
+
+🤝 **Collaborations** — Machine Learning Research  
+💼 **Consulting** — AI/ML Projects  
+🎤 **Speaking** — Tech Events & Conferences  
+📝 **Technical Writing** — Knowledge Sharing  
 
 </div>
-
----
 
 <div align="center">
 
@@ -256,28 +257,31 @@ LLMs, Prompt Engineering, ML Architecture</p>
 <p><em>"Always improving, always evolving"</em></p>
 </td>
 <td align="center" width="33%" style="border: none;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="40"/>
 <h4>Empathy</h4>
 <p><em>"The ultimate soft skill in tech and life"</em></p>
 </td>
 <td align="center" width="33%" style="border: none;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Africa-Europe.png" width="40"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/link_1f517.png" width="40"/>
 <h4>Unity</h4>
 <p><em>"Human dignity, diversity, and collaboration"</em></p>
 </td>
 </tr>
 </table>
 
-### 💡 Random Quote
-
+### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A fall into a ditch makes you wiser. — Chinese Proverb
+> *"A fall into a ditch makes you wiser."* — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flag%20Kenya.png" width="25"/> **Proudly Made in Kenya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="25"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-kenya_1f1f0-1f1ea.png" width="25"/> **Proudly Made in Kenya** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="25"/>
+
+</div>
 
 </div>
