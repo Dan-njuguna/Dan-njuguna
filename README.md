@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> *"A fall into a ditch makes you wiser."* — Chinese Proverb
+> One small positive thought can change your whole day. — Zig Ziglar
 <!-- QUOTE_END -->
 
 ---
