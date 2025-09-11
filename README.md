@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> One small positive thought can change your whole day. — Zig Ziglar
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. — William Faulkner
 <!-- QUOTE_END -->
 
 ---
