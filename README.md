@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. — William Faulkner
+> Don't try to steer the river. — Deepak Chopra
 <!-- QUOTE_END -->
 
 ---
