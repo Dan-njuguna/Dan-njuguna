@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Don't try to steer the river. — Deepak Chopra
+> No problem can be solved from the same level of consciousness that created it. — Albert Einstein
 <!-- QUOTE_END -->
 
 ---
