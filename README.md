@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Passion is energy. Feel the power that comes from focusing on what excites you.  — Oprah Winfrey
+> A strong man overcomes an obstacle, a wise man goes the whole way. — Zen Proverb
 <!-- QUOTE_END -->
 
 ---
