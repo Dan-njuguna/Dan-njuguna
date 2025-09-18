@@ -189,7 +189,7 @@ Documenting AI/ML best practices & research</p>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117&border_radius=15&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dan-njuguna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-njuguna&hide_border=true&background=0d1117&stroke=8A2BE2&ring=FF6B35&fire=FF6B35&currStreakLabel=8A2BE2&sideLabels=6A5ACD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" />
 
 <br/>
