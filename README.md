@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> I dream my painting and I paint my dream. — Vincent van Gogh
+> Success is getting what you want... Happiness is wanting what you get. — Dale Carnegie
 <!-- QUOTE_END -->
 
 ---
