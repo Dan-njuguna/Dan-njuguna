@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If you are ever the smartest person in the room, you are in the wrong room. — C. Sean McGee
+> It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. — Dale Carnegie
 <!-- QUOTE_END -->
 
 ---
