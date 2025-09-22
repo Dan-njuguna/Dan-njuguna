@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Never whine, never complain, never try to justify yourself. — Robert Greene
+> There is no greatness where there is not simplicity, goodness, and truth. — Leo Tolstoy
 <!-- QUOTE_END -->
 
 ---
