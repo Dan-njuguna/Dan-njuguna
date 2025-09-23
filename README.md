@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> There is no greatness where there is not simplicity, goodness, and truth. — Leo Tolstoy
+> Human beings can alter their lives by altering their attitudes of mind. — William James
 <!-- QUOTE_END -->
 
 ---
