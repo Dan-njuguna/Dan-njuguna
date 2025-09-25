@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You must be willing to do what others won't do, to have what others won't have. — Les Brown
+> When you move beyond your fear, you feel free. — Spencer Johnson
 <!-- QUOTE_END -->
 
 ---
