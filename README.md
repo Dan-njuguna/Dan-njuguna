@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> When you move beyond your fear, you feel free. — Spencer Johnson
+> Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. — Lao Tzu
 <!-- QUOTE_END -->
 
 ---
