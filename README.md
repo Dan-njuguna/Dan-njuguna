@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> No man is free who is not master of himself. — Epictetus
+> Not everything that weighs you down is yours to carry. — Unknown
 <!-- QUOTE_END -->
 
 ---
