@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Not everything that weighs you down is yours to carry. — Unknown
+> Judge a man by his questions rather than his answers. — Voltaire
 <!-- QUOTE_END -->
 
 ---
