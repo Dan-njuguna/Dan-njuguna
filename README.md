@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Judge a man by his questions rather than his answers. — Voltaire
+> Don't let the past steal your present. — Cherralea Morgen
 <!-- QUOTE_END -->
 
 ---
