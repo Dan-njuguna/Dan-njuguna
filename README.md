@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Don't let the past steal your present. — Cherralea Morgen
+> He that can have patience can have what he will. — Benjamin Franklin
 <!-- QUOTE_END -->
 
 ---
