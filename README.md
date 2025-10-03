@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He that can have patience can have what he will. — Benjamin Franklin
+> It is our experiences that mold us into who we are...during times of adversity our true character will show. — Unknown
 <!-- QUOTE_END -->
 
 ---
