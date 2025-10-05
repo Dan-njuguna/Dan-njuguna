@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The opposite of courage in our society is not cowardice... it is conformity. — Earl Nightingale
+> The truth is not for all men, but for those who seek it. — Ayn Rand
 <!-- QUOTE_END -->
 
 ---
