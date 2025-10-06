@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The truth is not for all men, but for those who seek it. — Ayn Rand
+> I never dwell on what happened. You can't change it. Move forward. — Joan Rivers
 <!-- QUOTE_END -->
 
 ---
