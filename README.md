@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> I never dwell on what happened. You can't change it. Move forward. — Joan Rivers
+> Listen to the secret sound, the real sound, which is inside you. — Kabir
 <!-- QUOTE_END -->
 
 ---
