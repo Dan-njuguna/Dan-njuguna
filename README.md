@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Listen to the secret sound, the real sound, which is inside you. — Kabir
+> The eyes of others our prisons; their thoughts our cages. — Virginia Woolf
 <!-- QUOTE_END -->
 
 ---
