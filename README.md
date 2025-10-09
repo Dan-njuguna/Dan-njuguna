@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The eyes of others our prisons; their thoughts our cages. — Virginia Woolf
+> There is nothing more frightful than ignorance in action. — Johann Wolfgang von Goethe
 <!-- QUOTE_END -->
 
 ---
