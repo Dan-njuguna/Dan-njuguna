@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> There is nothing more frightful than ignorance in action. — Johann Wolfgang von Goethe
+> The more reasons you have for achieving your goal, the more determined you will become. — Brian Tracy
 <!-- QUOTE_END -->
 
 ---
