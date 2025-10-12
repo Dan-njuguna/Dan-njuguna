@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. — Pema Chodron
+> You must learn to let go. Release the stress. You were never in control anyway. — Steve Maraboli
 <!-- QUOTE_END -->
 
 ---
