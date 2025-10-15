@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> When it is dark enough, you can see the stars. — Ralph Waldo Emerson
+> Life is trying things to see if they work. — Ray Bradbury
 <!-- QUOTE_END -->
 
 ---
