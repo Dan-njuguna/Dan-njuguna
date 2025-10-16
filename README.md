@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Life is trying things to see if they work. — Ray Bradbury
+> Desire is suffering. — Naval Ravikant
 <!-- QUOTE_END -->
 
 ---
