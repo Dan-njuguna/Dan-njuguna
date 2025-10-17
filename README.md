@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Desire is suffering. — Naval Ravikant
+> Excellence is not a skill. It is an attitude.  — Ralph Marston
 <!-- QUOTE_END -->
 
 ---
