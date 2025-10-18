@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Excellence is not a skill. It is an attitude.  — Ralph Marston
+> Forgive those who have hurt you. — Les Brown
 <!-- QUOTE_END -->
 
 ---
