@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If you're waiting until you feel talented enough to make it, you'll never make it. — Criss Jami
+> There is no absolute success in the world, only constant progress. — Jonathan Swift
 <!-- QUOTE_END -->
 
 ---
