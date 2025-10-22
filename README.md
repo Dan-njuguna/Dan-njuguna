@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> There is no absolute success in the world, only constant progress. — Jonathan Swift
+> Where there is no struggle, there is no strength.  — Oprah Winfrey
 <!-- QUOTE_END -->
 
 ---
