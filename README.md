@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Where there is no struggle, there is no strength.  — Oprah Winfrey
+> Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  — Jack London
 <!-- QUOTE_END -->
 
 ---
