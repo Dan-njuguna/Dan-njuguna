@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Love is the absence of judgment. — Dalai Lama
+> Integrity is the ability to stand by an idea. — Ayn Rand
 <!-- QUOTE_END -->
 
 ---
