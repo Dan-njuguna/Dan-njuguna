@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Integrity is the ability to stand by an idea. — Ayn Rand
+> One beam, no matter how big, cannot support an entire house on its own. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
