@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> One beam, no matter how big, cannot support an entire house on its own. — Chinese Proverb
+> There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. — G.I. Gurdjieff
 <!-- QUOTE_END -->
 
 ---
