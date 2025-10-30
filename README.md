@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We are always complaining that our days are few, and acting as though there would be no end of them.   — Seneca
+> Whenever people agree with me I always feel I must be wrong. — Oscar Wilde
 <!-- QUOTE_END -->
 
 ---
