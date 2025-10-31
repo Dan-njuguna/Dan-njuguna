@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Whenever people agree with me I always feel I must be wrong. — Oscar Wilde
+> Believe in your infinite potential. Your only limitations are those you set upon yourself. — Roy T. Bennett
 <!-- QUOTE_END -->
 
 ---
