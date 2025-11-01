@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Believe in your infinite potential. Your only limitations are those you set upon yourself. — Roy T. Bennett
+> Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.   — Jack Kerouac
 <!-- QUOTE_END -->
 
 ---
