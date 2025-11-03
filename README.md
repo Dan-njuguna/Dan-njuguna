@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A lie can travel half way around the world while the truth is putting on its shoes. — Mark Twain
+> The purpose of life is the life of purpose. — Robin Sharma
 <!-- QUOTE_END -->
 
 ---
