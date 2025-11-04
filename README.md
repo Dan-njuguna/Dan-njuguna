@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The purpose of life is the life of purpose. — Robin Sharma
+> Never let the fear of striking out keep you from playing the game. — Babe Ruth
 <!-- QUOTE_END -->
 
 ---
