@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Never let the fear of striking out keep you from playing the game. — Babe Ruth
+> Anyone who has ever made anything of importance was disciplined. — Andrew Hendrixson
 <!-- QUOTE_END -->
 
 ---
