@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Anyone who has ever made anything of importance was disciplined. — Andrew Hendrixson
+> Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. — Eckhart Tolle
 <!-- QUOTE_END -->
 
 ---
