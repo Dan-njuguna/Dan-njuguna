@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He who knows best knows how little he knows. — Thomas Jefferson
+> It is indeed a radical act of love just to sit down and be quiet for a time by yourself. — Jon Kabat-Zinn
 <!-- QUOTE_END -->
 
 ---
