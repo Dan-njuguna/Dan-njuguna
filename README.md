@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A hopeless man is a very desperate and dangerous man, almost a dead man. — Robert F. Kennedy
+> Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. — Kahlil Gibran
 <!-- QUOTE_END -->
 
 ---
