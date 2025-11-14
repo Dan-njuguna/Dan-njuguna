@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The best answer to anger is silence. — Marcus Aurelius
+> No man can get rich himself unless he enriches others. — Earl Nightingale
 <!-- QUOTE_END -->
 
 ---
