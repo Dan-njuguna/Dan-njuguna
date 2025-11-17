@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Dream big. Start small. But most of all, start. — Simon Sinek
+> The power to make and break habits and learning how to do that is really important. — Naval Ravikant
 <!-- QUOTE_END -->
 
 ---
