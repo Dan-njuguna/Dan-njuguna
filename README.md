@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The power to make and break habits and learning how to do that is really important. — Naval Ravikant
+> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. — Elon Musk
 <!-- QUOTE_END -->
 
 ---
