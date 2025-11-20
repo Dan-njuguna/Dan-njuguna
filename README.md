@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Passion creates, addiction consumes. — Gabor Mate
+> The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
 <!-- QUOTE_END -->
 
 ---
