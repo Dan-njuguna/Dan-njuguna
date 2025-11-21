@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The opportunity of defeating the enemy is provided by the enemy himself. — Sun Tzu
+> We suffer more often in imagination than in reality.   — Seneca
 <!-- QUOTE_END -->
 
 ---
