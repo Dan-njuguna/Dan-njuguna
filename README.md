@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We suffer more often in imagination than in reality.   — Seneca
+> It isn't that they can't see the solution. It is that they can't see the problem. — Gilbert Chesterton
 <!-- QUOTE_END -->
 
 ---
