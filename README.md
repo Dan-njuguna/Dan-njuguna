@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It isn't that they can't see the solution. It is that they can't see the problem. — Gilbert Chesterton
+> The greatest weariness comes from work not done. — Eric Hoffer
 <!-- QUOTE_END -->
 
 ---
