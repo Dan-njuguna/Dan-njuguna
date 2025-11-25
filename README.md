@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The Truth is realized in an instant; the Act is practiced step by step. — Seungsahn
+> Before anything else, preparation is the key to success. — Alexander Graham Bell
 <!-- QUOTE_END -->
 
 ---
