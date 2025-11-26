@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Before anything else, preparation is the key to success. — Alexander Graham Bell
+> The soul without imagination is what an observatory would be without a telescope. — Henry Ward Beecher
 <!-- QUOTE_END -->
 
 ---
