@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The soul without imagination is what an observatory would be without a telescope. — Henry Ward Beecher
+> The way out is in. — Thich Nhat Hanh
 <!-- QUOTE_END -->
 
 ---
