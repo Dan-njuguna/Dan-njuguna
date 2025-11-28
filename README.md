@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The way out is in. — Thich Nhat Hanh
+> Best be yourself, imperial, plain, and true. — Robert Browning
 <!-- QUOTE_END -->
 
 ---
