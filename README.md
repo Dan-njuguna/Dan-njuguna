@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Best be yourself, imperial, plain, and true. — Robert Browning
+> It doesn't matter where you are, you are nowhere compared to where you can go. — Bob Proctor
 <!-- QUOTE_END -->
 
 ---
