@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> What's the point in being smart enough to read, if everything you read makes you dumb? — C. Sean McGee
+> You are not the drop in the ocean, but the ocean in the drop. — Deepak Chopra
 <!-- QUOTE_END -->
 
 ---
