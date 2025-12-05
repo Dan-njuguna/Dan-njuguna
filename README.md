@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Problems remain as problems because people are busy defending them rather than finding solutions. — Celestine Chua
+> The foolish reject what they see, not what they think; the wise reject what they think, not what they see. — Huang Po
 <!-- QUOTE_END -->
 
 ---
