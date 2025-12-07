@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He who can, does. — George Bernard Shaw
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. — Brian Tracy
 <!-- QUOTE_END -->
 
 ---
