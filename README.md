@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If you do not push the boundaries, you will never know where they are. — T.S. Eliot
+> Decide whether or not the goal is worth the risks involved. If it is, stop worrying. — Amelia Earhart
 <!-- QUOTE_END -->
 
 ---
