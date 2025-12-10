@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Decide whether or not the goal is worth the risks involved. If it is, stop worrying. — Amelia Earhart
+> If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. — T.S. Eliot
 <!-- QUOTE_END -->
 
 ---
