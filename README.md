@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The important thing is not to stop questioning. Curiosity has its own reason for existing. — Albert Einstein
+> Most people achieved their greatest success one step beyond what looked like their greatest failure. — Brian Tracy
 <!-- QUOTE_END -->
 
 ---
