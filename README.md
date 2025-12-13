@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Most people achieved their greatest success one step beyond what looked like their greatest failure. — Brian Tracy
+> Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. — James Cameron
 <!-- QUOTE_END -->
 
 ---
