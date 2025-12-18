@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Obstacles don't block the path, they are the path. — Zen Proverb
+> We can see through others only when we can see through ourselves. — Bruce Lee
 <!-- QUOTE_END -->
 
 ---
