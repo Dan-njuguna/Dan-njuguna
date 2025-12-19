@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We can see through others only when we can see through ourselves. — Bruce Lee
+> Whatever you are, be a good one. — Abraham Lincoln
 <!-- QUOTE_END -->
 
 ---
