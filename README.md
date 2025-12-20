@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Whatever you are, be a good one. — Abraham Lincoln
+> Luck is a matter of preparation meeting opportunity. — Oprah Winfrey
 <!-- QUOTE_END -->
 
 ---
