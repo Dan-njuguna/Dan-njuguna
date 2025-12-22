@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You'll get more from being a peacemaker than a warrior. — Arnold Schwarzenegger
+> Never spend your money before you have earned it. — Thomas Jefferson
 <!-- QUOTE_END -->
 
 ---
