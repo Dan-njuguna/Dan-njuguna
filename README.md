@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Never spend your money before you have earned it. — Thomas Jefferson
+> Longevity is a fleeting moment that lasts forever. — Vidal Sassoon
 <!-- QUOTE_END -->
 
 ---
