@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Longevity is a fleeting moment that lasts forever. — Vidal Sassoon
+> Be brave to stand for what you believe in even if you stand alone. — Roy T. Bennett
 <!-- QUOTE_END -->
 
 ---
