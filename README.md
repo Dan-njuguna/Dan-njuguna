@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — Carl Bard
+> Start the day with love, spend the day with love, fill the day with love and end the day with love. — Sathya Sai Baba
 <!-- QUOTE_END -->
 
 ---
