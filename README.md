@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Don't let anyone define you. You define yourself. — Billie Jean King
+> A Quitter never wins - and - a Winner never quits. — Napoleon Hill
 <!-- QUOTE_END -->
 
 ---
