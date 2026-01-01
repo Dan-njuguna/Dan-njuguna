@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We have to live life with a sense of urgency so not a minute is wasted. — Les Brown
+> You have to make time, even for something as universal as staring at the stars. — W.P. Kinsella
 <!-- QUOTE_END -->
 
 ---
