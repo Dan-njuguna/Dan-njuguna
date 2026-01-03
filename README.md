@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He who cheats the earth will be cheated by the earth. — Chinese Proverb
+> Far more crucial than what we know or do not know is what we do not want to know. — Eric Hoffer
 <!-- QUOTE_END -->
 
 ---
