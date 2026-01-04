@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Far more crucial than what we know or do not know is what we do not want to know. — Eric Hoffer
+> Age is a very high price to pay for maturity. — William James
 <!-- QUOTE_END -->
 
 ---
