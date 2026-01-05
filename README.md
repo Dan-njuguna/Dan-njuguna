@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Age is a very high price to pay for maturity. — William James
+> When the world pushes you to your knees, you're in the perfect position to pray. — Rumi
 <!-- QUOTE_END -->
 
 ---
