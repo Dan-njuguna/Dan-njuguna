@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> When the world pushes you to your knees, you're in the perfect position to pray. — Rumi
+> Most people spend more time and energy going around problems than in trying to solve them.  — Henry Ford
 <!-- QUOTE_END -->
 
 ---
