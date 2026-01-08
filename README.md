@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. — Dr. Seuss
+> To be prepared is half the victory.  — Miguel de Cervantes
 <!-- QUOTE_END -->
 
 ---
