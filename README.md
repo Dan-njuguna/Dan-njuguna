@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> To be prepared is half the victory.  — Miguel de Cervantes
+> The most creative act you will ever undertake is the act of creating yourself. — Deepak Chopra
 <!-- QUOTE_END -->
 
 ---
