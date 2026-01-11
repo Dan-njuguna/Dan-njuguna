@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A man who dares to waste one hour of time has not discovered the value of life. — Charles Darwin
+> Yesterday is gone. Tomorrow has not yet come. We have only today. — Mother Teresa
 <!-- QUOTE_END -->
 
 ---
