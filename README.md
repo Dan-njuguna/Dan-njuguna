@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King
+> You're always free to change your mind and choose a different future, or a different past. — Richard Bach
 <!-- QUOTE_END -->
 
 ---
