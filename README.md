@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You're always free to change your mind and choose a different future, or a different past. — Richard Bach
+> To do two things at once is to do neither. — Publilius Syrus
 <!-- QUOTE_END -->
 
 ---
