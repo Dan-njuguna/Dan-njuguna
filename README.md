@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> To do two things at once is to do neither. — Publilius Syrus
+> The goal is not to be perfect by the end, the goal is to be better today. — Simon Sinek
 <!-- QUOTE_END -->
 
 ---
