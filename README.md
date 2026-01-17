@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The goal is not to be perfect by the end, the goal is to be better today. — Simon Sinek
+> Silence is a source of great strength. — Lao Tzu
 <!-- QUOTE_END -->
 
 ---
