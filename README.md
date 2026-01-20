@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It's better to dance than to march through life. — Yoko Ono
+> Outstanding people have one thing in common: an absolute sense of mission.   — Zig Ziglar
 <!-- QUOTE_END -->
 
 ---
