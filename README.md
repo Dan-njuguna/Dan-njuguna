@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Outstanding people have one thing in common: an absolute sense of mission.   — Zig Ziglar
+> The friendship that can cease has never been real.  — St. Jerome
 <!-- QUOTE_END -->
 
 ---
