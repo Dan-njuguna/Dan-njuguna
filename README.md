@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. — Robert Greene
+> The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. — Josh Waitzkin
 <!-- QUOTE_END -->
 
 ---
