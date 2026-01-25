@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. — Josh Waitzkin
+> How you think is as important as as what you think. — Unknown
 <!-- QUOTE_END -->
 
 ---
