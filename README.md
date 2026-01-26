@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> How you think is as important as as what you think. — Unknown
+> You are free, and that is why you are lost.  — Franz Kafka
 <!-- QUOTE_END -->
 
 ---
