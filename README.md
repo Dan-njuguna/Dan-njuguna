@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. — Steve Maraboli
+> Silence is a source of great strength. — Lao Tzu
 <!-- QUOTE_END -->
 
 ---
