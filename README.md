@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Your only obligation in any lifetime is to be true to yourself. — Richard Bach
+> Know yourself and you will win all battles. — Sun Tzu
 <!-- QUOTE_END -->
 
 ---
