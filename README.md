@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> What you get by achieving your goals is not as important as what you become by achieving your goals. — Henry David Thoreau
+> No one can hurt you without your consent. — Eleanor Roosevelt
 <!-- QUOTE_END -->
 
 ---
