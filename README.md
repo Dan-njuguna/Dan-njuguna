@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> No one can hurt you without your consent. — Eleanor Roosevelt
+> No one ever said life was fair. Just Eventful. — Carol Burnett
 <!-- QUOTE_END -->
 
 ---
