@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> No one ever said life was fair. Just Eventful. — Carol Burnett
+> There is a wisdom of the head, and there is a wisdom of the heart. — Charles Dickens
 <!-- QUOTE_END -->
 
 ---
