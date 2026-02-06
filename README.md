@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> There is a wisdom of the head, and there is a wisdom of the heart. — Charles Dickens
+> Be happy now, without reason - or you never will be at all. — Dan Millman
 <!-- QUOTE_END -->
 
 ---
