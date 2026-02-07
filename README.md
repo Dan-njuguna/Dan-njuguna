@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Be happy now, without reason - or you never will be at all. — Dan Millman
+> Create each day anew. — Morihei Ueshiba
 <!-- QUOTE_END -->
 
 ---
