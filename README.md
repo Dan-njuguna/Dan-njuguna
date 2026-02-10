@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You are not one person, but three: The one you think you are; The one others think you are; The one you really are. — Sathya Sai Baba
+> All great truths begin as blasphemies. — George Bernard Shaw
 <!-- QUOTE_END -->
 
 ---
