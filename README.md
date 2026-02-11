@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> All great truths begin as blasphemies. — George Bernard Shaw
+> Man's character is his fate. — Heraclitus
 <!-- QUOTE_END -->
 
 ---
