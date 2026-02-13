@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We are all self-made, but only the successful will admit it. — Earl Nightingale
+> All leaders are readers. — Jim Rohn
 <!-- QUOTE_END -->
 
 ---
