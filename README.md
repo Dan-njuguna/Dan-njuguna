@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. — Jonathan Swift
+> If a thing is worth doing, it is worth doing badly. — Gilbert Chesterton
 <!-- QUOTE_END -->
 
 ---
