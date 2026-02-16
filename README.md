@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If a thing is worth doing, it is worth doing badly. — Gilbert Chesterton
+> We are all born ignorant, but one must work hard to remain stupid. — Benjamin Franklin
 <!-- QUOTE_END -->
 
 ---
