@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We are all born ignorant, but one must work hard to remain stupid. — Benjamin Franklin
+> Remember that sometimes not getting what you want is a wonderful stroke of luck. — Dalai Lama
 <!-- QUOTE_END -->
 
 ---
