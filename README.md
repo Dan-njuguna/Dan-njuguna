@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Rudeness is the weak man's imitation of strength. — Eric Hoffer
+> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.  — Franz Kafka
 <!-- QUOTE_END -->
 
 ---
