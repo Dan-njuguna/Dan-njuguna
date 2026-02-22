@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. — Ronald Reagan
+> To a mind that is still, the entire universe surrenders. — Zhuangzi
 <!-- QUOTE_END -->
 
 ---
