@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> To a mind that is still, the entire universe surrenders. — Zhuangzi
+> Children are our greatest natural resource. — Herbert Hoover
 <!-- QUOTE_END -->
 
 ---
