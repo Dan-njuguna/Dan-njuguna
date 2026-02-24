@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Children are our greatest natural resource. — Herbert Hoover
+> By failing to prepare, you are preparing to fail. — Benjamin Franklin
 <!-- QUOTE_END -->
 
 ---
