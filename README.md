@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A comfort zone is a beautiful place, but nothing ever grows there. — Unknown
+> It's your life-but only if you make it so. — Eleanor Roosevelt
 <!-- QUOTE_END -->
 
 ---
