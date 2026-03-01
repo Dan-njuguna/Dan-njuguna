@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It's your life-but only if you make it so. — Eleanor Roosevelt
+> The man who removes a mountain begins by carrying away small stones. — William Faulkner
 <!-- QUOTE_END -->
 
 ---
