@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The man who removes a mountain begins by carrying away small stones. — William Faulkner
+> The pain of parting is nothing to the joy of meeting again. — Charles Dickens
 <!-- QUOTE_END -->
 
 ---
