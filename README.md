@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It doesn't matter where you are coming from. All that matters is where you are going.  — Brian Tracy
+> You don't need a weatherman to know which way the wind blows. — Bob Dylan
 <!-- QUOTE_END -->
 
 ---
