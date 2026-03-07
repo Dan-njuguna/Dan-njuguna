@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Admire as much as you can. Most people do not admire enough. — Vincent van Gogh
+> The world doesn't always give you want, but it often gives you what you need. — Naval Ravikant
 <!-- QUOTE_END -->
 
 ---
