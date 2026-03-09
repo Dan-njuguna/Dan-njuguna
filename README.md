@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Everything flows, nothing stands still. — Heraclitus
+> You'll see it when you believe it.  — Wayne Dyer
 <!-- QUOTE_END -->
 
 ---
