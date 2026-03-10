@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You'll see it when you believe it.  — Wayne Dyer
+> We can spend our whole lives escaping from the monsters of our minds. — Pema Chodron
 <!-- QUOTE_END -->
 
 ---
