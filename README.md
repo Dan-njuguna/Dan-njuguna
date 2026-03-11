@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We can spend our whole lives escaping from the monsters of our minds. — Pema Chodron
+> We cannot change anything unless we accept it. — Carl Jung
 <!-- QUOTE_END -->
 
 ---
