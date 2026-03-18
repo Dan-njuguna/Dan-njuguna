@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Your happiness is what truly matters most. Do what you have to do in order to be happy. — Brian Tracy
+> Giving back involves a certain amount of giving up. — Colin Powell
 <!-- QUOTE_END -->
 
 ---
