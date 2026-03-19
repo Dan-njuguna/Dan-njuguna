@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Giving back involves a certain amount of giving up. — Colin Powell
+> Be fascinated instead of frustrated. — Jim Rohn
 <!-- QUOTE_END -->
 
 ---
