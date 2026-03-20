@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Be fascinated instead of frustrated. — Jim Rohn
+> Simple words, repeated daily, can change your life. — Maxime Lagace
 <!-- QUOTE_END -->
 
 ---
