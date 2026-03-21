@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Simple words, repeated daily, can change your life. — Maxime Lagace
+> Life is what you make it. Always has been, always will be. — Eleanor Roosevelt
 <!-- QUOTE_END -->
 
 ---
