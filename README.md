@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Life is what you make it. Always has been, always will be. — Eleanor Roosevelt
+> Excellence is not an exception, it is a prevailing attitude. — Colin Powell
 <!-- QUOTE_END -->
 
 ---
