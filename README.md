@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You are now, and you do become, what you think about. — Earl Nightingale
+> It's easier to lose than to win.   — Wayne Gretzky
 <!-- QUOTE_END -->
 
 ---
