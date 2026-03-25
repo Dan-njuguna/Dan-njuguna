@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It's easier to lose than to win.   — Wayne Gretzky
+> Everything you've ever wanted is on the other side of fear. — Brian Tracy
 <!-- QUOTE_END -->
 
 ---
