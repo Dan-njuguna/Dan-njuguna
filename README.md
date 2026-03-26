@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Everything you've ever wanted is on the other side of fear. — Brian Tracy
+> Write to help yourself, publish to help others. — Jack Butcher
 <!-- QUOTE_END -->
 
 ---
