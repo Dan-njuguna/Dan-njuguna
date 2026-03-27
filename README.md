@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Write to help yourself, publish to help others. — Jack Butcher
+> Confidence is what you have before you understand the problem. — Woody Allen
 <!-- QUOTE_END -->
 
 ---
