@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Confidence is what you have before you understand the problem. — Woody Allen
+> Intense love does not measure, it just gives. — Mother Teresa
 <!-- QUOTE_END -->
 
 ---
