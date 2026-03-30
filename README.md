@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. — Brian Tracy
+> Success is about creating value. — Candice Carpenter
 <!-- QUOTE_END -->
 
 ---
