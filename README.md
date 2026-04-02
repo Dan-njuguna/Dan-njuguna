@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It's not the men in your life that matters, it's the life in your men. — Mae West
+> If I can laugh, I can live. — Christopher Reeve
 <!-- QUOTE_END -->
 
 ---
