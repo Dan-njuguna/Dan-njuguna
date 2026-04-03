@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If I can laugh, I can live. — Christopher Reeve
+> Ideas do not reach perfection in a day, no matter how much study is put upon them. — Alexander Graham Bell
 <!-- QUOTE_END -->
 
 ---
