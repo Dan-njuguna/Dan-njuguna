@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Don't wish it were easier, wish you were better. — Jim Rohn
+> Your gift is something that you can do innately better than anything else. — Steve Harvey
 <!-- QUOTE_END -->
 
 ---
