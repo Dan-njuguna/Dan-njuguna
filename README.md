@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It's OK to have your eggs in one basket as long as you control what happens to that basket. — Elon Musk
+> The greatest treasures are those invisible to the eye but found by the heart. — Judy Garland
 <!-- QUOTE_END -->
 
 ---
