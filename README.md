@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The greatest treasures are those invisible to the eye but found by the heart. — Judy Garland
+> He who wishes to be obeyed must know how to command. — Niccolo Machiavelli
 <!-- QUOTE_END -->
 
 ---
