@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He who wishes to be obeyed must know how to command. — Niccolo Machiavelli
+> I can live without money, but I cannot live without love. — Judy Garland
 <!-- QUOTE_END -->
 
 ---
