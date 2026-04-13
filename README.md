@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Enjoy life. There's plenty of time to be dead. — Hans Christian Andersen
+> A mistake is only an error, it becomes a mistake when you fail to correct it. — John Lennon
 <!-- QUOTE_END -->
 
 ---
