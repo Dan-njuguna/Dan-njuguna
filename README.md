@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A mistake is only an error, it becomes a mistake when you fail to correct it. — John Lennon
+> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. — Ralph Marston
 <!-- QUOTE_END -->
 
 ---
