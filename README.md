@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. — Ralph Marston
+> Truth is such a rare thing, it is delighted to tell it. — Emily Dickinson
 <!-- QUOTE_END -->
 
 ---
