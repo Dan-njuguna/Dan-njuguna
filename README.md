@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine. — G.I. Gurdjieff
+> Still your waters. — Josh Waitzkin
 <!-- QUOTE_END -->
 
 ---
