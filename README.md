@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. — Zig Ziglar
+> Freedom lies in being bold. — Robert Frost
 <!-- QUOTE_END -->
 
 ---
