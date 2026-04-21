@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Freedom lies in being bold. — Robert Frost
+> Your heart is the size of an ocean. Go find yourself in its hidden depths. — Rumi
 <!-- QUOTE_END -->
 
 ---
