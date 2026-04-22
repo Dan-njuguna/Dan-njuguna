@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Your heart is the size of an ocean. Go find yourself in its hidden depths. — Rumi
+> When you judge another, you do not define them, you define yourself — Wayne Dyer
 <!-- QUOTE_END -->
 
 ---
