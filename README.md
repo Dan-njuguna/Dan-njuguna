@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The only reason to be alive is to enjoy it. — Rita Mae Brown
+> You can't get to a place that you don't believe exists. — Unknown
 <!-- QUOTE_END -->
 
 ---
