@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You can't get to a place that you don't believe exists. — Unknown
+> Even if you persuade me, you won't persuade me. — Aristophanes
 <!-- QUOTE_END -->
 
 ---
