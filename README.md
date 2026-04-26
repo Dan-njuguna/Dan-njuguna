@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Even if you persuade me, you won't persuade me. — Aristophanes
+> In the middle of difficulty lies opportunity. — Albert Einstein
 <!-- QUOTE_END -->
 
 ---
