@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> In the middle of difficulty lies opportunity. — Albert Einstein
+> I'm an optimist by choice not by stupidity. — Yanni
 <!-- QUOTE_END -->
 
 ---
