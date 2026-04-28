@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> I'm an optimist by choice not by stupidity. — Yanni
+> Self-knowledge is the beginning of self-correction. — Norman Vincent Peale
 <!-- QUOTE_END -->
 
 ---
