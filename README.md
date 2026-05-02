@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Duty makes us do things well, but love makes us do them beautifully.   — Zig Ziglar
+> Confidence is contagious. So is lack of confidence. — Vince Lombardi
 <!-- QUOTE_END -->
 
 ---
