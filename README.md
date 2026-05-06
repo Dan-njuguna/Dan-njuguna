@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Throw your heart over the bar and your body will follow. — Norman Vincent Peale
+> If what you're doing is not your passion, you have nothing to lose. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
