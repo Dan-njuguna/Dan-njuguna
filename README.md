@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> If what you're doing is not your passion, you have nothing to lose. — Celestine Chua
+> It's the possibility of having a dream come true that makes life interesting. — Paulo Coelho
 <!-- QUOTE_END -->
 
 ---
