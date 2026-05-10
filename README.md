@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. — Zig Ziglar
+> The majority of what you want will come from the minority of what you do. — Gary Keller
 <!-- QUOTE_END -->
 
 ---
