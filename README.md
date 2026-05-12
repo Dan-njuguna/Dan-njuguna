@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We don't stop playing because we grow old; we grow old because we stop playing. — George Bernard Shaw
+> There is no sadder sight than a young pessimist. — Mark Twain
 <!-- QUOTE_END -->
 
 ---
