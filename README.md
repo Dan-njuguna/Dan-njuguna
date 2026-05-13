@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> There is no sadder sight than a young pessimist. — Mark Twain
+> If you want to see things just as they are, then you yourself must practice just as you are. — Dogen
 <!-- QUOTE_END -->
 
 ---
