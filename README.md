@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. — Nicolas Chamfort
+> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
 <!-- QUOTE_END -->
 
 ---
