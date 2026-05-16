@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. — George Eliot
+> He who cheats the earth will be cheated by the earth. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
