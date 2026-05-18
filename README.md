@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> He who cheats the earth will be cheated by the earth. — Chinese Proverb
+> A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. — George Bernard Shaw
 <!-- QUOTE_END -->
 
 ---
