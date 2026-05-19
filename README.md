@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. — George Bernard Shaw
+> We make a living by what we get, but we make a life by what we give. — Unknown
 <!-- QUOTE_END -->
 
 ---
