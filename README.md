@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> We make a living by what we get, but we make a life by what we give. — Unknown
+> The greatest miracle is to be alive. — Thich Nhat Hanh
 <!-- QUOTE_END -->
 
 ---
