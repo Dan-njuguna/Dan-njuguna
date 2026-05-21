@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The greatest miracle is to be alive. — Thich Nhat Hanh
+> The more acquaintances you have, the less you know them. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ---
