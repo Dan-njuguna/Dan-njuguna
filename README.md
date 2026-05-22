@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The more acquaintances you have, the less you know them. — Chinese Proverb
+> Just because something isn't a lie does not mean that it isn't deceptive. — Criss Jami
 <!-- QUOTE_END -->
 
 ---
