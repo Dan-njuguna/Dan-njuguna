@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Just because something isn't a lie does not mean that it isn't deceptive. — Criss Jami
+> With the new day comes new strength and new thoughts. — Eleanor Roosevelt
 <!-- QUOTE_END -->
 
 ---
