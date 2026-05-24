@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> With the new day comes new strength and new thoughts. — Eleanor Roosevelt
+> Presents are made for the pleasure of who gives them, not the merits of who receives them. — Carlos Ruiz Zafon
 <!-- QUOTE_END -->
 
 ---
