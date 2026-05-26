@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. — Dan Millman
+> Learn only how to avoid seeking for and attaching yourselves to anything. — Huang Po
 <!-- QUOTE_END -->
 
 ---
