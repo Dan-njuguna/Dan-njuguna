@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Being wrong opens us up to the possibility of change. — Mark Manson
+> You just can't beat the person who never gives up. — Babe Ruth
 <!-- QUOTE_END -->
 
 ---
