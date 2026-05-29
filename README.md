@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You just can't beat the person who never gives up. — Babe Ruth
+> Do something to move yourself toward your major goal every day. — Brian Tracy
 <!-- QUOTE_END -->
 
 ---
