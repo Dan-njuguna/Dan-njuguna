@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. — John Eliot
+> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. — Spencer Johnson
 <!-- QUOTE_END -->
 
 ---
