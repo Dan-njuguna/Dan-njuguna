@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. — Spencer Johnson
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
 <!-- QUOTE_END -->
 
 ---
