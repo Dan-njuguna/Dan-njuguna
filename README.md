@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
+> The only thing worse than being blind is having sight but no vision. — Helen Keller
 <!-- QUOTE_END -->
 
 ---
