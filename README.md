@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The only thing worse than being blind is having sight but no vision. — Helen Keller
+> You are always your own best guru, your own best teacher, the answers are always inside you. — Sathya Sai Baba
 <!-- QUOTE_END -->
 
 ---
