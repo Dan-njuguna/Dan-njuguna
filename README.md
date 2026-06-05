@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Expect the best of yourself, and then do what is necessary to make it a reality. — Ralph Marston
+> One of the most difficult things is not to change society - but to change yourself. — Nelson Mandela
 <!-- QUOTE_END -->
 
 ---
