@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> One of the most difficult things is not to change society - but to change yourself. — Nelson Mandela
+> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. — Confucius
 <!-- QUOTE_END -->
 
 ---
