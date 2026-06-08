@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> A lot of people have gone further than they thought they could because someone else thought they could. — Zig Ziglar
+> I like the dreams of the future better than the history of the past. — Thomas Jefferson
 <!-- QUOTE_END -->
 
 ---
