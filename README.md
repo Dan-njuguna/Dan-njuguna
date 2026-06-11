@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Short cuts make long delays. — J.R.R. Tolkien
+> Every man desires to live long, but no man wishes to be old. — Jonathan Swift
 <!-- QUOTE_END -->
 
 ---
