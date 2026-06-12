@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Every man desires to live long, but no man wishes to be old. — Jonathan Swift
+> The future depends on what you do today. — Mahatma Gandhi
 <!-- QUOTE_END -->
 
 ---
