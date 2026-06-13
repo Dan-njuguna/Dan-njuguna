@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The future depends on what you do today. — Mahatma Gandhi
+> You can't build a reputation on what you are going to do. — Henry Ford
 <!-- QUOTE_END -->
 
 ---
