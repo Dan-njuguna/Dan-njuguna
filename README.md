@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You can't build a reputation on what you are going to do. — Henry Ford
+> Anger begins with folly, and ends with repentance. — Beverly Sills
 <!-- QUOTE_END -->
 
 ---
