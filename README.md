@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Your dream has to be bigger than your fear. — Steve Harvey
+> The road to success is always under construction.. — Lily Tomlin
 <!-- QUOTE_END -->
 
 ---
