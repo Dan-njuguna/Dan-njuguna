@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> The road to success is always under construction.. — Lily Tomlin
+> Never whine, never complain, never try to justify yourself. — Robert Greene
 <!-- QUOTE_END -->
 
 ---
