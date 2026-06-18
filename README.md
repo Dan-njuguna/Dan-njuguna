@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Never whine, never complain, never try to justify yourself. — Robert Greene
+> But better die than live mechanically a life that is a repetition of repetitions. — D. H. Lawrence
 <!-- QUOTE_END -->
 
 ---
