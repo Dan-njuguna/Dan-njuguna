@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> But better die than live mechanically a life that is a repetition of repetitions. — D. H. Lawrence
+> Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
 <!-- QUOTE_END -->
 
 ---
