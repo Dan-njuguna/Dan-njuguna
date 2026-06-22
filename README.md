@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Only when you can be extremely pliable and soft can you be extremely hard and strong. — Zen Proverb
+> Argue for your limitations and sure enough, they're yours. — Richard Bach
 <!-- QUOTE_END -->
 
 ---
