@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You may be one person in this world, but to one person you may mean the world. — Unknown
+> You're on earth. There's no cure for that. — Samuel Beckett
 <!-- QUOTE_END -->
 
 ---
