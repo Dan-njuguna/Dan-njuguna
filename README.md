@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> You're on earth. There's no cure for that. — Samuel Beckett
+> The best fighter is never angry. — Lao Tzu
 <!-- QUOTE_END -->
 
 ---
