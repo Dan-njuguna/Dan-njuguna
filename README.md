@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> It is dangerous to be right in matters on which the established authorities are wrong. — Voltaire
+> Do Something. If it works, do more of it. If it doesn't, do something else. — Franklin D. Roosevelt
 <!-- QUOTE_END -->
 
 ---
