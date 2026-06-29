@@ -263,7 +263,7 @@ Documenting AI/ML best practices & research</p>
 
 ### 💭 **Daily Wisdom**
 <!-- QUOTE_START -->
-> Truth is the offspring of silence and meditation. — Isaac Newton
+> All leaders are readers. — Jim Rohn
 <!-- QUOTE_END -->
 
 ---
