@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> All leaders are readers. — Jim Rohn
+> To create more positive results in your life, replace 'if only' with 'next time'. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
