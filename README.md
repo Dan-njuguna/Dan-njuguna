@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> People who say it cannot be done should not interrupt those who are doing it. — George Bernard Shaw
+> No one ever said life was fair. Just Eventful. — Carol Burnett
 <!-- QUOTE_END -->
 
 ---
