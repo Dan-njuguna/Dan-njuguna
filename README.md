@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. — Sun Tzu
+> Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. — Steve Maraboli
 <!-- QUOTE_END -->
 
 ---
