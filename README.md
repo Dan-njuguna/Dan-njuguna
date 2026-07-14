@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Success is a consequence and must not be a goal. — Gustave Flaubert
+> Pain doesn't last. And when it's gone, we have something to show for it. Growth. — Kamal Ravikant
 <!-- QUOTE_END -->
 
 ---
