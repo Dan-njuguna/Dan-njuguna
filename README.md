@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Pain doesn't last. And when it's gone, we have something to show for it. Growth. — Kamal Ravikant
+> Knowing others is wisdom, knowing yourself is enlightenment. — Lao Tzu
 <!-- QUOTE_END -->
 
 ---
