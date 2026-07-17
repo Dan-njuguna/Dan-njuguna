@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Knowing others is wisdom, knowing yourself is enlightenment. — Lao Tzu
+> Death and life have their determined appointments; riches and honors depend upon heaven. — Confucius
 <!-- QUOTE_END -->
 
 ---
