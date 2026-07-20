@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. — Albus Dumbledore
+> An action committed in anger is an action doomed to failure. — Genghis Khan
 <!-- QUOTE_END -->
 
 ---
