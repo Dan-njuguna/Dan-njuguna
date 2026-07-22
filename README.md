@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Do Something. If it works, do more of it. If it doesn't, do something else. — Franklin D. Roosevelt
+> Nothing makes a man broad-minded like adversity. — Will Rogers
 <!-- QUOTE_END -->
 
 ---
