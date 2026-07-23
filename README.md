@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Nothing makes a man broad-minded like adversity. — Will Rogers
+> You have the potential for greatness. — Steve Harvey
 <!-- QUOTE_END -->
 
 ---
