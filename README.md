@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> It is amazing what you can accomplish if you do not care who gets the credit. — Harry S. Truman
+> Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
 <!-- QUOTE_END -->
 
 ---
