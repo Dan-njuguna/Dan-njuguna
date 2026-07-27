@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
+> But better die than live mechanically a life that is a repetition of repetitions. — D. H. Lawrence
 <!-- QUOTE_END -->
 
 ---
