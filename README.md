@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> But better die than live mechanically a life that is a repetition of repetitions. — D. H. Lawrence
+> Be kind, for everyone you meet is fighting a harder battle. — Plato
 <!-- QUOTE_END -->
 
 ---
