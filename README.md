@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. — Joan Rivers
+> It all depends on what you choose to believe. — Spencer Johnson
 <!-- QUOTE_END -->
 
 ---
