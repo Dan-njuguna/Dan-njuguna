@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> It all depends on what you choose to believe. — Spencer Johnson
+> Love never keeps a man from pursuing his destiny. — Paulo Coelho
 <!-- QUOTE_END -->
 
 ---
