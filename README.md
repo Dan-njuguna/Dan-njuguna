@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. — Epictetus
+> Talk sense to a fool and he calls you foolish. — Euripides
 <!-- QUOTE_END -->
 
 ---
