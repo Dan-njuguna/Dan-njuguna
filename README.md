@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Ability is a poor man's wealth. — John Wooden
+> The greatest discovery of all time is that a person can change their future by merely changing their attitude. — Oprah Winfrey
 <!-- QUOTE_END -->
 
 ---
