@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> The greatest discovery of all time is that a person can change their future by merely changing their attitude. — Oprah Winfrey
+> Magic is believing in yourself, if you can do that, you can make anything happen. — Johann Wolfgang von Goethe
 <!-- QUOTE_END -->
 
 ---
