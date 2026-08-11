@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Correct what you can. Learn from what you can't. — Toni Morrison
+> Still your waters. — Josh Waitzkin
 <!-- QUOTE_END -->
 
 ---
