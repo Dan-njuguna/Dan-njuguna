@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Still your waters. — Josh Waitzkin
+> Sadness is but a wall between two gardens. — Kahlil Gibran
 <!-- QUOTE_END -->
 
 ---
