@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Sadness is but a wall between two gardens. — Kahlil Gibran
+> Keep your face to the sunshine and you cannot see the shadows. — Helen Keller
 <!-- QUOTE_END -->
 
 ---
