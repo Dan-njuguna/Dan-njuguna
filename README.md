@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Listen to the secret sound, the real sound, which is inside you. — Kabir
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. — Nikola Tesla
 <!-- QUOTE_END -->
 
 ---
