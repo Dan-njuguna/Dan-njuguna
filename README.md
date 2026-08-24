@@ -102,7 +102,7 @@ FastAPI · Go · PostgreSQL · MySQL · Docker · Linux · GCP · AWS · Git
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> The biggest adventure you can ever take is to live the life of your dreams. — Oprah Winfrey
+> The quicker you let go of old cheese, the sooner you find new cheese. — Spencer Johnson
 <!-- QUOTE_END -->
 
 ---
