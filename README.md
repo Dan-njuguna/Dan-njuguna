@@ -19,7 +19,7 @@ Python · Go · Databases · Docker · Linux · Cloud Computing · Version Contr
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. — Charles Dickens
+> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. — Richard Bach
 <!-- QUOTE_END -->
 
 ---
