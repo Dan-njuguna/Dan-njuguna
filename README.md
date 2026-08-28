@@ -19,7 +19,7 @@ Python · Go · Databases · Docker · Linux · Cloud Computing · Version Contr
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. — Richard Bach
+> Whatever you decide to do, make sure it makes you happy. — Paulo Coelho
 <!-- QUOTE_END -->
 
 ---
