@@ -19,7 +19,7 @@ Python · Go · Databases · Docker · Linux · Cloud Computing · Version Contr
 
 ### Daily Wisdom
 <!-- QUOTE_START -->
-> Whatever you decide to do, make sure it makes you happy. — Paulo Coelho
+> Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. — Celestine Chua
 <!-- QUOTE_END -->
 
 ---
