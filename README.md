@@ -19,9 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-
-> To a mind that is still, the entire universe surrenders. — Zhuangzi
-
+> Stop wasting time defending your problems and work on addressing them instead. — Celestine Chua
 <!-- QUOTE_END -->
 
 ## Contact
