@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Force has no place where there is need of skill. — Herodotus
+> If you don't find the time, if you don't do the work, you don't get the results. — Arnold Schwarzenegger
 <!-- QUOTE_END -->
 
 ## Contact
