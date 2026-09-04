@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> If you don't find the time, if you don't do the work, you don't get the results. — Arnold Schwarzenegger
+> Do good by stealth, and blush to find it fame. — Alexander Pope
 <!-- QUOTE_END -->
 
 ## Contact
