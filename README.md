@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Do good by stealth, and blush to find it fame. — Alexander Pope
+> However difficult life may seem, there is always something you can do and succeed at. — Stephen Hawking
 <!-- QUOTE_END -->
 
 ## Contact
