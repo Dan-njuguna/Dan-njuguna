@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> However difficult life may seem, there is always something you can do and succeed at. — Stephen Hawking
+> A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu
 <!-- QUOTE_END -->
 
 ## Contact
