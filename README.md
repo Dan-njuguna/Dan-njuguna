@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> High thoughts must have high language. — Aristophanes
+> We are all like the bright moon, we still have our darker side. — Kahlil Gibran
 <!-- QUOTE_END -->
 
 ## Contact
