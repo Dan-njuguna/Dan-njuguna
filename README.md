@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> He who leaves the game wins it. — Nicolas Chamfort
+> Everyday is a second chance. — Unknown
 <!-- QUOTE_END -->
 
 ## Contact
