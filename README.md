@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> When things go wrong, don't go with them. — Elvis Presley
+> Till it has loved, no man or woman can become itself. — Emily Dickinson
 <!-- QUOTE_END -->
 
 ## Contact
