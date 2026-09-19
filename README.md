@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Till it has loved, no man or woman can become itself. — Emily Dickinson
+> Make your mind your own business. — Jack Butcher
 <!-- QUOTE_END -->
 
 ## Contact
