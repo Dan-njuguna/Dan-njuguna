@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Make your mind your own business. — Jack Butcher
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. — Henry Ward Beecher
 <!-- QUOTE_END -->
 
 ## Contact
