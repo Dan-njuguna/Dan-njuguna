@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> The smallest act of kindness is worth more than the greatest intention. — Kahlil Gibran
+> Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself. — Samuel Butler
 <!-- QUOTE_END -->
 
 ## Contact
