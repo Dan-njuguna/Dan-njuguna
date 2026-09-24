@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> When we strive to become better than we are, everything around us becomes better, too. — Paulo Coelho
+> You are what you believe in. You become that which you believe you can become. — Bhagavad Gita
 <!-- QUOTE_END -->
 
 ## Contact
