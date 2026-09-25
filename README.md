@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> You are what you believe in. You become that which you believe you can become. — Bhagavad Gita
+> Give so much away people insist on paying you. — Jack Butcher
 <!-- QUOTE_END -->
 
 ## Contact
