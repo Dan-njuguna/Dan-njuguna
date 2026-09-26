@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Give so much away people insist on paying you. — Jack Butcher
+> If you get up one more time than you fall, you will make it through. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ## Contact
