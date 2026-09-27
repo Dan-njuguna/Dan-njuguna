@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> If you get up one more time than you fall, you will make it through. — Chinese Proverb
+> Don't let your learning lead to knowledge. Let your learning lead to action. — Jim Rohn
 <!-- QUOTE_END -->
 
 ## Contact
