@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> One mistake does not have to rule a person's entire life. — Joyce Meyer
+> Silence is a source of great strength. — Lao Tzu
 <!-- QUOTE_END -->
 
 ## Contact
