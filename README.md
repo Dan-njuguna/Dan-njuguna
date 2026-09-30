@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Silence is a source of great strength. — Lao Tzu
+> If you've made a mistake, it's better just to laugh at it. — Zen Proverb
 <!-- QUOTE_END -->
 
 ## Contact
