@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> If you've made a mistake, it's better just to laugh at it. — Zen Proverb
+> When you stop questioning, you stop learning. — Lolly Daskal
 <!-- QUOTE_END -->
 
 ## Contact
