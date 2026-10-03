@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. — Nelson Mandela
+> We are born from a quiet sleep, and we die to a calm awakening — Zhuangzi
 <!-- QUOTE_END -->
 
 ## Contact
