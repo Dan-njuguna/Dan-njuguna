@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Engage in those actions and thoughts that nurture the good qualities you want to have. — Paramahansa Yogananda
+> A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
 <!-- QUOTE_END -->
 
 ## Contact
