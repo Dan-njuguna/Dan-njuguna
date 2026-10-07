@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> A gentleman is one who puts more into the world than he takes out. — George Bernard Shaw
+> Be happy now, without reason - or you never will be at all. — Dan Millman
 <!-- QUOTE_END -->
 
 ## Contact
