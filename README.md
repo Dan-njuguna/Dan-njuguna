@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. — Ray Bradbury
+> Ability is a poor man's wealth. — John Wooden
 <!-- QUOTE_END -->
 
 ## Contact
