@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Ability is a poor man's wealth. — John Wooden
+> You only live once, but if you do it right, once is enough. — Mae West
 <!-- QUOTE_END -->
 
 ## Contact
