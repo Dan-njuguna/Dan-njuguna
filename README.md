@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Those who know, do. Those that understand, teach. — Aristotle
+> Life can be the scariest and most beautiful thing simultaneously. — Maxime Lagace
 <!-- QUOTE_END -->
 
 ## Contact
