@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Genius is one percent inspiration and ninety-nine percent perspiration. — Thomas Edison
+> Everything eaten is killed. Every meal is a sacrifice. — Adi Da Samraj
 <!-- QUOTE_END -->
 
 ## Contact
