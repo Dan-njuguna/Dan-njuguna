@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> As we first succeed, we will find ourselves in new situations, facing new problems. — Ryan Holiday
+> You've got to get up every morning with determination if you're going to go to bed with satisfaction. — George Lorimer
 <!-- QUOTE_END -->
 
 ## Contact
