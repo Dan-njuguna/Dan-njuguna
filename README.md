@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> You've got to get up every morning with determination if you're going to go to bed with satisfaction. — George Lorimer
+> The greater the impact you want to make, the greater your influence needs to be. — Lolly Daskal
 <!-- QUOTE_END -->
 
 ## Contact
