@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> The greater the impact you want to make, the greater your influence needs to be. — Lolly Daskal
+> The secret of change is to focus all your energy not on fighting the old, but on building the new. — Colin R. Davis
 <!-- QUOTE_END -->
 
 ## Contact
