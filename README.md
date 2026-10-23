@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. — Mark Twain
+> If someone betrays you once, it's their fault; if they betray you twice, it's your fault. — Eleanor Roosevelt
 <!-- QUOTE_END -->
 
 ## Contact
