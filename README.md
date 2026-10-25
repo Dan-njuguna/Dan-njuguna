@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. — Henry Ward Beecher
+> The wiser you get, the less you care to look like a fool. — Maxime Lagace
 <!-- QUOTE_END -->
 
 ## Contact
