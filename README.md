@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Still your waters. — Josh Waitzkin
+> What we dwell on is who we become. — Oprah Winfrey
 <!-- QUOTE_END -->
 
 ## Contact
