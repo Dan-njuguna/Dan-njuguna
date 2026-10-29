@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> What we dwell on is who we become. — Oprah Winfrey
+> The more reasons you have for achieving your goal, the more determined you will become. — Brian Tracy
 <!-- QUOTE_END -->
 
 ## Contact
