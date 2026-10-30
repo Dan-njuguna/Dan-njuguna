@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> The more reasons you have for achieving your goal, the more determined you will become. — Brian Tracy
+> Distant water does not put out a nearby fire. — Chinese Proverb
 <!-- QUOTE_END -->
 
 ## Contact
