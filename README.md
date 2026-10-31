@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Distant water does not put out a nearby fire. — Chinese Proverb
+> When you believe in a thing, believe in it all the way, implicitly and unquestionable. — Walt Disney
 <!-- QUOTE_END -->
 
 ## Contact
