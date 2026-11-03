@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> If you want others to be happy, practice compassion. If you want to be happy, practice compassion. — Dalai Lama
+> When the time is gone, you can never get it back. — Stephen King
 <!-- QUOTE_END -->
 
 ## Contact
