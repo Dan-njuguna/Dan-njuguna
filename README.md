@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> When the time is gone, you can never get it back. — Stephen King
+> What the eye doesn't see and the mind doesn't know, doesn't exist. — D. H. Lawrence
 <!-- QUOTE_END -->
 
 ## Contact
