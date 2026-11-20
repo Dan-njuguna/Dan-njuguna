@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Debt is the slavery of the free. — Publilius Syrus
+> Never waste a minute of your precious life thinking about people you don't like. — Celestine Chua
 <!-- QUOTE_END -->
 
 ## Contact
