@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Never waste a minute of your precious life thinking about people you don't like. — Celestine Chua
+> To avoid criticism, do nothing, say nothing, and be nothing. — Elbert Hubbard
 <!-- QUOTE_END -->
 
 ## Contact
