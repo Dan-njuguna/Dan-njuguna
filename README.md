@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> To avoid criticism, do nothing, say nothing, and be nothing. — Elbert Hubbard
+> Peace is not the absence of conflict, but the ability to cope with it. — Unknown
 <!-- QUOTE_END -->
 
 ## Contact
