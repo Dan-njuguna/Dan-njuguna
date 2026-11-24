@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Have a vision. Be demanding. — Colin Powell
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. — Robert Kiyosaki
 <!-- QUOTE_END -->
 
 ## Contact
