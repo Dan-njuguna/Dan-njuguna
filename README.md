@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> Keep your eyes on the stars, but remember to keep your feet on the ground. — Theodore Roosevelt
+> It takes half your life before you discover life is a do-it-yourself project. — Napoleon Hill
 <!-- QUOTE_END -->
 
 ## Contact
