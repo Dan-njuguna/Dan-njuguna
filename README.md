@@ -19,7 +19,7 @@ Python · Go · SQL · PostgreSQL · Docker · Linux · Cloud · Data Pipelines 
 ### Daily Wisdom
 
 <!-- QUOTE_START -->
-> It takes half your life before you discover life is a do-it-yourself project. — Napoleon Hill
+> High thoughts must have high language. — Aristophanes
 <!-- QUOTE_END -->
 
 ## Contact
